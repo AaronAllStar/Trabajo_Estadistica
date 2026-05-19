@@ -1,0 +1,773 @@
+﻿id_cliente,nombre_cliente,edad,genero,pais,ciudad,segmento,nivel_satisfaccion,ingresos_mensuales,compras_ultimos_6m,monto_total_compras,fecha_registro,canal_preferido,reclamos_ultimos_6m,tiempo_entrega_dias,estado_cliente,score_riesgo,email,telefono
+C0001,Natalia Vargas,43,Masculino,el salvador,San José,Bronce,Muy alto,"501,099",8,164519,04/04/2024,WhatsApp,2,5.8,Bloqueado,688.0,nataliavargas@correo.com,61849593
+C0002,Adriana Torres,57,m,Nicaragua,Puntarenas,Oro,Bajo,938129,7,277828,2026-02-25,Correo,0,4.6,activo,377.0,adrianatorres@correo.com,53767242
+C0003,Pablo Monge,19,F,Guatemala,Alajuela,Oro,Muy alto,956439,10,0,03/07/2025,Llamada,0,3.2,Activo,252.0,pablomonge@correo.com,82814893
+C0004,Emilio Aguilar,28,F,Panamá,Cartago,,Medio,490545,8,138229,07-24-2024,WhatsApp,7,5.5,Bloqueado,561.0,emilioaguilar@correo.com,50983930
+C0005,María Mora,36,M,Guatemala,,Premium,Medio,338284,6,,2026-03-30,llamada,0,5.8,,417.0,mariamora@correo.com,78108013
+C0006,Valeria Solís,150,M,Nicaragua,,premium,Bajo,,6,215033,2024-07-09,whatsapp,1,3.5,Bloqueado,784.0,valeriasolis@correo.com,91699854
+C0007,Camila Solís,45,F,Cost Rica,Managua,Oro,1,751940,13,15000000,2024-04-16,Llamada,3,4.6,activo,419.0,camilasolis@correo.com,
+C0008,José Navarro,-5,F,Guatemala,Puntarenas,Bronce,Bajo,,6,67550,2024-06-15,llamada,0,6.4,ACTIVO,808.0,josenavarro@correo.com,34216073
+C0009,Andrés Hernández,36,M,Costa Rica,Liberia,Oro,Bajo,1256679,15,235154,2025-06-07,App,1,3.7,activo,251.0,andreshernandez@correo.com,35615951
+C0010,Sebastián Cordero,25,M,Nicaragua,Heredia,Bronce,Medio,744996,14,375421,06-22-2024,Email,1,7.1,,741.0,sebastiancordero@correo.com,33200379
+C0011,Jorge Monge,40,F,Costa Rica,Alajuela,,Alto,499455,15,365883,03-12-2025,whatsapp,0,2.5,Inactivo,701.0,jorgemonge@correo.com,87347143
+C0012,Sofía Soto,36,F,Nicaragua,Ciudad de Guatemala,Premium,Bajo,532738,15,356762,12/08/2024,email,0,2.2,Pendiente,493.0,sofiasoto@correo.com,29806990
+C0013,Esteban Navarro,37,Female,Panamá,Antigua,Bronce,Bajo,1439534,11,271681,2025-11-16,email,0,5.2,inactivo,351.0,estebannavarro@correo.com,12419049
+C0014,Mónica Jiménez,50,F,Panamá,Managua,Premium,Bajo,853401,11,430735,2025-03-21,,4,4.1,inactivo,573.0,monicajimenez@correo.com,94531473
+C0015,Lucía Rojas,23,M,Panamá,Managua,Plata,medio,720432,8,176449,06/09/2024,Correo,0,4.9,Pendiente,848.0,luciarojas@correo.com,74443135
+C0016,Valeria Jiménez,33,M,El Salvador,Alajuela,Plata,Medio,971052,3,102046,2024-07-07,,2,2.8,Bloqueado,545.0,valeriajimenez@correo.com,22941318
+C0017,Adriana Pérez,18,No indica,Nicaragua,Managua,Premium,Alto,"₡981,585",15,290881,10-16-2024,Llamada,0,2.6,activo,725.0,adrianaperez@correo.com,36183242
+C0018,Emilio Monge,45,M,Nicaragua,Ciudad de Panamá,Bronce,Alto,920057,5,110383,2025-08-13,whatsapp,0,4.6,inactivo,417.0,emiliomonge@correo.com,71756551
+C0019,Mónica Salazar,27,,nicargua,Puntarenas,Bronce,Muy alto,780402,19,464845,03-24-2025,App,0,3.4,inactivo,676.0,,13171274
+C0020,Jimena Salazar,42,M,El Salvador,Heredia,Premium,Alto,1196672,7,124416,07-19-2025,Llamada,3,4.9,ACTIVO,393.0,jimenasalazar@correo.com,60576627
+C0021,Esteban Vargas,43,F,Guatemala,San Salvador,Oro,Muy alto,1849323,4,67498,02-06-2024,whatsapp,1,7.9,inactivo,698.0,estebanvargas@correo.com,17240050
+C0022,Sofía Hernández,18,F,Costa Rica,Antigua,Plata,Alto,771674,6,119245,11-02-2024,,1,4.6,Activo,850.0,sofiahernandez@correo.com,69594406
+C0023,Alonso Alvarado,33,Masculino,Guatemala,Puntarenas,Plata,Bajo,650968,0,18896,06/07/2025,email,3,8.1,Activo,745.0,alonsoalvarado@correo.com,51712368
+C0024,Camila Araya,42,Masculino,Nicaragua,Puntarenas,Oro,Medio,1158499,11,291393,2024-04-28,SMS,1,5.2,,820.0,camilaaraya@correo.com,
+C0025,Daniela Hernández,37,M,PAN,Cartago,Premium,Bajo,503551,6,184332,26/08/2024,Llamada,2,2.5,activo,840.0,danielahernandez@correo.com,21020539
+C0026,Luis Soto,33,F,Panamá,Alajuela,Bronce,Alto,344415,1,"₡19,009",11-25-2024,SMS,0,2.6,inactivo,677.0,luissoto@correo.com,47896118
+C0027,Daniela Hernández,18,Femenino,Panamá,San Salvador,Premium,Bajo,2256600,12,255659,07/02/2026,email,1,5.7,Activo,461.0,danielahernandez@correo.com,73158514
+C0028,Emilio Ramírez,43,F,Panama,Managua,Bronce,4,580095,8,error,02-11-2026,App,0,2.1,Activo,614.0,emilioramirez@correo.com,81561497
+C0029,Diego Solís,38,F,Guatemala,Liberia,Premium,2,875605,7,66840,20/03/2024,Correo,1,6.9,Inactivo,-100,diegosolis@correo.com,97516136
+C0030,Paula Torres,33,M,Costa Rica,Cartago,Plata,Medio,674727,4,154998,16/08/2025,Email,3,3.9,activo,444.0,paulatorres@correo.com,71774490
+C0031,Daniela Navarro,45,F,Costa Rica,Ciudad de Panamá,Plata,Muy alto,868885,9,257301.00,03-25-2025,,0,4.7,Pendiente,495.0,danielanavarro@correo.com,51518644
+C0032,Lucía Castro,28,M,Nicaragua,Liberia,Bronce,Muy alto,853136,6,148367,2024-10-29,SMS,1,3.4,,647.0,luciacastro@correo.com,
+C0033,Emilio Torres,34,M,Nicaragua,Cartago,Oro,Muy alto,1110061,0,19179,2024-10-18,Email,0,4.5,ACTIVO,512.0,emiliotorres@correo.com,75060685
+C0034,Diego Rojas,31,F,GT,Ciudad de Guatemala,Premium,Bajo,654677,10,253265,10-16-2025,Email,0,3.3,ACTIVO,260.0,diegorojas@correo.com,24609539
+C0035,María Pérez,,F,Nicaragua ,Puntarenas,Bronce,Bajo,,5,55371,05-05-2025,App,0,1.7,ACTIVO,272.0,mariaperez@correo.com,sin telefono
+C0036,Esteban Mora,41,F,Nicaragua,Antigua,Premium,Alto,1986407,4,58838,09/11/2024,Llamada,0,4.3,,275.0,estebanmora@correo.com,64016582
+C0037,Luis Soto,53,M,ESA,San Salvador,Bronce,Alto,"676,966",11,146152,2025-04-01,Llamada,0,6.6,Pendiente,324.0,luissoto@correo.com,71551884
+C0038,Kevin Chaves,27,F,nicargua,Ciudad de Guatemala,Bronce,2,ND,7,57439,03-09-2026,Email,0,5.8,activo,796.0,kevinchaves@correo.com,24225358
+C0039,Valeria Araya,31,,Guatemala,Managua,Oro,Bajo,1004380,14,119689,2025-05-09,whatsapp,1,4.8,Inactivo,286.0,valeriaaraya@correo.com,35925556
+C0040,Lucía Hernández,24,F,Panamá,Managua,Oro,Medio,845125,-2,0,21/02/2024,whatsapp,3,4.6,activo,572.0,luciahernandez@correo.com,45650609
+C0041,María Solís,18,M,El Salvador,Antigua,Oro,Medio,ND,7,124591,19/09/2025,WhatsApp,6,4.7,,452.0,mariasolis@correo.com,94705516
+C0042,Camila Monge,18,,El Salvador,Antigua,Bronce,Muy alto,715335,4,error,2025-06-15,SMS,8,2.8,activo,824.0,camilamonge@correo.com,85497334
+C0043,Adriana Torres,28,M,El Salvador,,Premium,Muy alto,1180468,0,16080,05/07/2025,Llamada,1,5.4,Activo,602.0,adrianatorres@correo.com,83301657
+C0044,Ricardo Gómez,18,F,Guatemala,Liberia,Bronce,Medio,934726,14,406723,10/02/2025,SMS,1,3.9,Inactivo,272.0,ricardogomez@correo.com,54788728
+C0045,Lucía Gómez,,F,Panamá,Managua,Sin segmento,Alto,638475,0,25673,sin fecha,llamada,1,8.3,ACTIVO,434.0,luciagomez@correo.com,41459332
+C0046,Jorge Araya,51,F,Guatemala,Managua,Oro,5,1251472,3,25453,06/06/2025,Email,0,5.9,Activo,285.0,jorgearaya@correo.com,06403910
+C0047,Alonso Castro,47,M,Guatemala,,Premium,Muy alto,626195,7,140170,2026-01-15,,2,5.9,Activo,681.0,alonsocastro@correo.com,
+C0048,Diego Jiménez,48,F,Costa Rica,San José,Bronce,Muy alto,973895,10,468480,2024-10-08,Correo,1,0.5,,657.0,,68566246
+C0049,Diego Hernández,28,F,El Salvador,Antigua,Oro,Bajo,611314,15,465864,2025-05-05,email,0,45,,827.0,diegohernandez@correo.com,73936385
+C0050,Ricardo Chaves,29,M,Nicaragua,Puntarenas,Bronce,Medio,935596,12,309467,02/12/2025,WhatsApp,2,7.5,Activo,544.0,ricardochaves@correo.com,123
+C0051,Jorge Soto,,M,El Salvador,San José,Bronce,4,790475,4,27931,2024-07-02,Email,1,4.8,Activo,401.0,jorgesoto@correo.com,15679334
+C0052,María Solís,,F,Guatemala ,San Salvador,Bronce,Muy alto,1032865,12,301835,30/12/2025,Email,0,4.5,ACTIVO,760.0,mariasolis@correo.com,62185016
+C0053,Emilio Alvarado,,M,Panamá,Ciudad de Guatemala,Premium,Muy alto,366360,6,202928,20/11/2024,Email,0,7.5,ACTIVO,412.0,emilioalvarado@correo.com,78886101
+C0054,Esteban Solís,46,F,El Salvador,Cartago,Plata,Muy alto,687394,8,208978,05-22-2025,SMS,0,-3,,449.0,estebansolis@correo.com,57569245
+C0055,Lucía Gómez,64,M,Nicaragua,Cartago,Premium,Medio,991224,5,36154,2025-12-10,email,2,5.6,Activo,630.0,luciagomez@correo.com,66179796
+C0056,Kevin Chaves,27,F,Costa Rica,San Salvador,Bronce,Muy alto,"₡1,453,019",0,10725,01/04/2025,whatsapp,2,4.6,,0,kevinchaves@correo.com,11254573
+C0057,Carlos Navarro,,,CR,San Salvador,Premium,Medio,675053,2,60529,21/07/2024,llamada,0,7.6,ACTIVO,701.0,sin correo,82553714
+C0058,Emilio Solís,21,F,Salvador,Managua,Plata,Medio,756223,3,38259,06-26-2024,email,0,5.9,,622.0,emiliosolis@correo.com,72368876
+C0059,Mateo Gómez,36,Male,Panamá,Liberia,Premium,Bajo,914995,8,198337,2025-03-11,Llamada,1,1.3,Pendiente,269.0,mateogomez@correo.com,17133959
+C0060,Kevin Jiménez,42,M,El Salvador,Puntarenas,Oro,Bajo,788156,0,28157,23/11/2025,Email,1,5.7,,521.0,kevinjimenez@correo.com,16845775
+C0061,Natalia Chaves,46,M,Guatemala,Puntarenas,Plata,Muy alto,5000,-2,28959,11/06/2024,SMS,0,7.9,,639.0,nataliachaves@correo.com,36110371
+C0062,Ana Rojas,26,F,Guatemala,Cartago,PREMIUM,Medio,521719,0,36871,12-25-2024,Email,1,5.9,Bloqueado,515.0,anarojas@correo.com,21965652
+C0063,Ricardo Alvarado,20,F,Panama,,Plata,Bajo,487826,300,8806641,01-09-2025,Email,2,4.3,Pendiente,260.0,ricardoalvarado@correo.com,00684866
+C0064,Camila Castro,28,F,El Salvador,Managua,Premium,Medio,772566,13,307768,16/06/2024,,1,3.7,Inactivo,350.0,camilacastro@correo.com,41056481
+C0065,Mateo Navarro,29,F,Guatemala,Alajuela,Bronce,Muy bajo,583427,7,229076,2025-03-05,App,0,2.7,ACTIVO,297.0,mateonavarro@correo.com,02380617
+C0066,María Araya,22,M,El Salvador,Puntarenas,Plata,Medio,sin dato,9,209382,2025-05-18,,0,3.8,Activo,389.0,mariaaraya@correo.com,57191826
+C0067,Jorge Soto,34,Masculino,Panamá,Liberia,Plata,Medio,800700,11,135113,03/12/2025,llamada,1,5.5,Bloqueado,447.0,jorgesoto@correo.com,56804420
+C0068,Carlos Navarro,51,F,Guatemala ,Puntarenas,Oro,Bajo,1481078,13,291289,10/08/2025,Correo,,5.3,,379.0,carlosnavarro@correo.com,20999347
+C0069,Luis Castro,32,M,El Salvador,Ciudad de Panamá,Oro,Muy alto,642289,150,6559512,04-28-2025,whatsapp,1,5.5,Activo,399.0,luiscastro@correo.com,03965223
+C0070,Mónica Chaves,48,F,Nicaragua,Heredia,Premium,3,650143,5,114835,2026-03-03,Correo,2,5.2,ACTIVO,815.0,monicachaves@correo.com,45226752
+C0071,Diego Monge,38,M,Guatemala,,Bronce,Alto,516096,3,79067,03-31-2024,email,1,45,ACTIVO,400.0,diegomonge@correo.com,10067626
+C0072,Ricardo Solís,45,M,Guatemala,San José,Bronce,Medio,1210938,11,79518,03-17-2025,llamada,3,10.0,Pendiente,373.0,ricardosolis@correo.com,84443106
+C0073,Luis Chaves,39,f,Nicaragua,Cartago,Premium,Alto,1284251,8,127552,15/02/2024,email,0,6.1,,341.0,luischaves@correo.com,58693806
+C0074,Gabriela Hernández,29,F,El Salvador,Ciudad de Panamá,,Medio,513772,8,75714,2024-03-09,,0,1.9,Inactivo,525.0,gabrielahernandez@correo.com,99861622
+C0075,Alonso Vargas,28,M,Panamá,Liberia,Premium,Muy alto,696479,7,253436,sin fecha,email,0,2.6,,661.0,alonsovargas@correo.com,47546913
+C0076,Adriana Pérez,48,MASC,Panamá,Antigua,Bronce,Alto,1198546,1,20925,sin fecha,SMS,0,8.7,Bloqueado,535.0,adrianaperez@correo.com,41406029
+C0077,Natalia Hernández,,F,Costa Rica,Heredia,Oro,Alto,771170,4,59758,06-07-2025,SMS,2,1.3,Activo,420.0,nataliahernandez@correo.com,54544432
+C0078,Kevin Alvarado,,M,Nicaragua,Liberia,Bronce,Medio,555486,10,336530,11-04-2025,,0,4.1,activo,735.0,kevinalvarado@correo.com,51353465
+C0079,Daniela Vargas,18,M,Costa Rica,Cartago,Premium,Medio,597155,9,132703,14/05/2025,llamada,0,120,inactivo,376.0,danielavargas@correo.com,27129666
+C0080,Ana Mora,18,F,El Salvador,San Salvador,Oro,Bajo,681087,6,116984,2025-12-04,WhatsApp,3,8.1,inactivo,819.0,anamora@correo.com,33230982
+C0081,Fabiola Ramírez,,M,Costa Rica,San José,Premium,Muy alto,827910,1,15456,20/05/2024,SMS,0,2.2,,318.0,fabiolaramirez@correo.com,
+C0082,Lucía Hernández,51,No indica,Nicaragua,Ciudad de Panamá,premium,Muy alto,ND,8,150823,2024-02-16,email,1,2.8,,513.0,luciahernandez@correo.com,15521667
+C0083,Kevin Cordero,21,FEM,Costa Rica,Heredia,Premium,Muy alto,1475525,0,33825,2025-03-27,Correo,80,3.3,Activo,652.0,kevincordero@correo.com,91637562
+C0084,Ana Gómez,20,F,Nicaragua,Puntarenas,Premium,Medio,sin dato,7,234338,2025-02-26,,0,6.5,,621.0,anagomez@correo.com,37550375
+C0085,Mónica Chaves,32,M,Panamá,San Salvador,Oro,Bajo,1549774,5,119021,08/08/2024,WhatsApp,0,6.2,inactivo,278.0,monicachaves@correo.com,17798270
+C0086,Jimena Monge,19,M,ESA,Alajuela,Premium,Medio,1645941,8,191266,12-29-2025,email,1,3.0,activo,424.0,jimenamonge@correo.com,28851587
+C0087,Fabiola Cordero,-1,F,costa rica,Liberia,Oro,Bajo,694331,2,53103,03-26-2026,whatsapp,1,7.8,Bloqueado,824.0,fabiolacordero@correo.com,80043973
+C0088,Adriana Jiménez,31,M,Guatemala,Alajuela,Oro,5,559147,11,289114,03-19-2026,whatsapp,0,1.9,ACTIVO,824.0,adrianajimenez@correo.com,26886153
+C0089,Fernando Torres,37,,CR,Ciudad de Guatemala,Plata,Alto,540704,16,593739,04/06/2025,email,0,5.2,Inactivo,299.0,fernandotorres@correo.com,88013361
+C0090,Pablo Soto,-5,M,Panamá,Managua,Premium,Muy alto,,9,215231,2025-05-29,Llamada,1,4.2,activo,806.0,pablosoto@correo.com,07283268
+C0091,Sebastián Chaves,35,F,Cost Rica,Antigua,Oro,Medio,605674,7,214226,16/07/2025,llamada,0,0.9,ACTIVO,368.0,sebastianchaves@correo.com,52314913
+C0092,Emilio Torres,31,M,nicargua,Cartago,Oro,medio,659978,5,181404,05-23-2024,Correo,1,6.7,,785.0,emiliotorres@correo.com,99693084
+C0093,Natalia Soto,28,F,Panamá,Antigua,Plata,Medio,805663,10,228828,2025-05-14,,0,2.4,Pendiente,795.0,nataliasoto@correo.com,70051844
+C0094,Paula Solís,22,M,Nicaragua,Cartago,Oro,Muy alto,1434831,13,361083,2025-11-07,Correo,0,5.8,Activo,537.0,paulasolis@correo.com,60302992
+C0095,Fabiola Monge,38,M,Nicaragua,Managua,Plata,Muy alto,1192858,10,269856,01-11-2026,Correo,0,3.6,Inactivo,481.0,fabiolamonge@correo.com,86291279
+C0096,María Salazar,,M,Nicaragua,Puntarenas,Premium,Muy alto,469470,0,16476,26/03/2024,Correo,1,0,inactivo,597.0,correo@@mal,56512694
+C0097,Gabriela Chaves,18,MASC,El Salvador,Ciudad de Guatemala,Oro,Alto,1204644,0,26437,04/06/2025,Email,2,8.4,Activo,281.0,gabrielachaves@correo.com,12796114
+C0098,Pablo Solís,45,F,ESA,San Salvador,Oro,Medio,1113253,5,157779,02-19-2025,,0,5.7,Activo,580.0,pablosolis@correo.com,95543937
+C0099,Camila Gómez,29,M,Costa Rica,Liberia,Premium,Medio,"₡798,979",9,86771,30/03/2026,App,0,7.3,Pendiente,408.0,camilagomez@correo.com,51827553
+C0100,Pablo Jiménez,25,M,Guatemala,Cartago,Plata,Bajo,1268380,8,289438,11/08/2025,Correo,5,5.4,,383.0,,78085627
+C0101,Lucía Rojas,42,F,El Salvador,Heredia,Oro,Muy alto,765990,8,82893,04-12-2024,App,0,5.6,activo,338.0,luciarojas@correo.com,02672885
+C0102,Ricardo Monge,39,No indica,Panamá,San Salvador,Oro,Alto,690695,8,79087,18/10/2024,whatsapp,1,3.4,Bloqueado,297.0,ricardomonge@correo.com,22569961
+C0103,Lucía Aguilar,23,M,Nicaragua,Puntarenas,Plata,Medio,1425828,1,26557,,Llamada,1,5.6,Activo,621.0,luciaaguilar@correo.com,64334722
+C0104,Luis Chaves,40,F,El Salvador,Ciudad de Panamá,Premium,Muy alto,891126,4,112013,2025/99/99,email,0,-3,inactivo,818.0,,49308536
+C0105,Diego Gómez,30,M,Costa Rica,Cartago,Oro,Bajo,600114,0,0,2024-01-23,Llamada,0,3.9,Activo,255.0,correo@@mal,56475705
+C0106,Camila Solís,46,F,Nicaragua,Alajuela,Premium,Bajo,352425,10,24911,2026-01-15,SMS,1,8.2,Activo,429.0,correo@@mal,13650249
+C0107,Luis Monge,36,FEM,Costa Rica,Ciudad de Guatemala,Bronce,,476280,2,18456,,,0,3.7,Pendiente,541.0,luismonge@correo.com,73928557
+C0108,María Pérez,39,F,Costa Rica,Ciudad de Panamá,Oro,Medio,731035,11,180022,02-23-2025,,0,1.5,activo,813.0,sin correo,73109678
+C0109,Luis Chaves,-1,MASC,Costa Rica,San Salvador,Premium,Bajo,ND,15,402474,2025-01-29,whatsapp,1,7.3,Pendiente,585.0,luischaves@correo.com,95761228
+C0110,Ricardo Alvarado,23,M,Panamá,Antigua,Oro,Medio,683890,9,217896,01-17-2024,Llamada,80,4.8,Pendiente,439.0,ricardoalvarado@correo.com,
+C0111,Camila Chaves,40,M,El Salvador,Cartago,Plata,Bajo,941362,5,208651,2025-03-02,SMS,0,6.0,Pendiente,257.0,camilachaves@correo.com,48058925
+C0112,Luis Solís,53,m,Nicaragua,Antigua,Bronce,Alto,445533,6,72885,09-22-2025,App,0,3.9,Pendiente,661.0,luissolis@correo.com,66553559
+C0113,Fernando Alvarado,43,F,GT,Heredia,Bronce,Medio,5000,0,6448,05-24-2024,whatsapp,0,3.8,Inactivo,276.0,fernandoalvarado@correo.com,94070164
+C0114,Ana Torres,45,F,Costa Rica,Ciudad de Guatemala,Premium,Bajo,ND,2,24397,03-04-2024,,0,11.4,Pendiente,816.0,anatorres@correo.com,56216893
+C0115,Jorge Torres,43,F,Guatemala,San Salvador,Plata,Medio,,5,155382,22/02/2026,,0,6.0,Bloqueado,810.0,jorgetorres@correo.com,42312209
+C0116,Emilio Hernández,34,M,Guatemala,Managua,Premium,Medio,605943,9,282835,2024-07-28,,4,4.3,Activo,663.0,emiliohernandez@correo.com,66096569
+C0117,Laura Vargas,18,Female,El Salvador,,Bronce,Muy alto,756772,10,212080,23/10/2025,whatsapp,0,4.3,Pendiente,787.0,lauravargas@correo.com,57027937
+C0118,Mónica Vargas,49,F,Nicaragua,Ciudad de Panamá,Premium,Medio,1762856,12,378024,26/02/2026,llamada,0,7.8,inactivo,252.0,,78097339
+C0119,Daniela Castro,32,Femenino,El Salvador,Cartago,PREMIUM,Muy bajo,1878283,7,126171,12-09-2025,Llamada,2,5.5,Inactivo,597.0,danielacastro@correo.com,45561681
+C0120,Mónica Ramírez,28,F,CostaRica,San Salvador,Oro,Alto,547594,12,74694,2025-09-16,App,50,4.9,activo,728.0,monicaramirez@correo.com,sin telefono
+C0121,Kevin Castro,,F,Panamá,,Plata,Alto,"1,584,595",13,101609,13/03/2026,,0,1.6,inactivo,657.0,,51240568
+C0122,José Alvarado,49,F,Costa Rica,Alajuela,Oro,Alto,567550,13,56009,14/12/2024,WhatsApp,1,4.7,Inactivo,773.0,josealvarado@correo.com,23076810
+C0123,Lucía Navarro,38,F,Costa Rica,Liberia,Plata,Alto,1607719,6,225642,16/07/2025,Email,4,4.1,inactivo,353.0,lucianavarro@correo.com,87020701
+C0124,Paula Gómez,26,F,Nicaragua,Liberia,Bronce,Muy alto,897791,0,18140,2024-08-17,Llamada,1,7.6,activo,670.0,paulagomez@correo.com,57701715
+C0125,Adriana Chaves,29,f,Costa Rica,San Salvador,Premium,Medio,1041761,6,178496,17/03/2026,email,0,2.2,Inactivo,809.0,adrianachaves@correo.com,99758172
+C0126,Emilio Vargas,27,F,costa rica,Managua,Plata,Alto,692990,1,2012,03-21-2025,SMS,0,,inactivo,493.0,emiliovargas@correo.com,58008514
+C0127,Mónica Monge,25,MASC,ESA,Ciudad de Guatemala,Oro,Medio,"₡234,887",10,360784,05-20-2024,,2,2.8,,808.0,monicamonge@correo.com,68765326
+C0128,Esteban Hernández,31,M,Costa Rica,Managua,,Bajo,303072,4,78668,04-28-2025,App,4,5.0,activo,729.0,,80778795
+C0129,José Mora,28,F,panamá,Managua,Oro,Bajo,708300,1,"₡30,011",2025-09-10,email,1,6.1,inactivo,355.0,josemora@correo.com,28051292
+C0130,Diego Navarro,32,Male,Costa Rica,Alajuela,Oro,Medio,618344,5,245559,06-26-2025,SMS,0,5.2,Bloqueado,757.0,diegonavarro@correo.com,45441496
+C0131,Laura Aguilar,,F,Costa Rica,San José,Oro,Alto,934467,0,19451,2025-09-11,Email,2,4.2,activo,361.0,lauraaguilar@correo.com,47174654
+C0132,Adriana Mora,26,F,Panamá,Ciudad de Guatemala,Plata,Bajo,460677,11,405252,2025-05-24,email,0,6.0,,341.0,adrianamora@correo.com,08776618
+C0133,Carlos Monge,18,MASC,Costa Rica,San Salvador,Oro,3,1124867,4,76277,06/12/2025,whatsapp,3,3.3,Activo,1200,carlosmonge@correo.com,18478700
+C0134,Paula Vargas,38,Femenino,ESA,Alajuela,Bronce,Bajo,0,15,"₡545,733",26/04/2024,,1,6.5,Pendiente,452.0,paulavargas@correo.com,65198253
+C0135,Lucía Castro,38,M,ESA,Managua,Premium,Bajo,1255251,9,165010,06/04/2025,Email,0,5.0,ACTIVO,680.0,luciacastro@correo.com,45608331
+C0136,Esteban Araya,20,M,costa rica,San Salvador,Plata,Bajo,493119,7,error,2024-06-10,email,0,3.3,Bloqueado,606.0,estebanaraya@correo.com,53153136
+C0137,María Salazar,30,M,El Salvador,Antigua,Oro,Medio,743489,7,89727,10-29-2024,SMS,2,5.3,Bloqueado,597.0,mariasalazar@correo.com,
+C0138,Lucía Cordero,18,F,El Salvador,Antigua,Bronce,Muy alto,782904,2,44753,15/05/2024,WhatsApp,1,4.7,Inactivo,433.0,luciacordero@correo.com,90772625
+C0139,Paula Aguilar,24,F,El Salvador,Cartago,Oro,Bajo,sin dato,7,114180,03-09-2024,Email,0,3.4,ACTIVO,318.0,paulaaguilar@correo.com,93355486
+C0140,Fernando Navarro,19,F,El Salvador,Ciudad de Guatemala,Premium,2,ND,8,222062,24/01/2024,whatsapp,1,5.8,,502.0,correo@@mal,10385695
+C0141,Gabriela Pérez,41,M,PAN,Cartago,Bronce,Muy alto,813568,3,134213,2024-06-06,Email,0,4.1,Activo,406.0,gabrielaperez@correo.com,05525782
+C0142,Paula Salazar,37,M,El Salvador,Puntarenas,Oro,Medio,1986643,0,20881,26/01/2024,llamada,0,4.9,ACTIVO,615.0,paulasalazar@correo.com,43018718
+C0143,Emilio Alvarado,29,m,Nicaragua,Puntarenas,Premium,Bajo,1165967,7,267552,2025-09-04,,0,2.8,Pendiente,451.0,emilioalvarado@correo.com,61064628
+C0144,Valeria Gómez,38,M,Panamá,Liberia,Bronce,Muy alto,797125,4,83449,03-09-2024,llamada,1,3.3,Pendiente,627.0,valeriagomez@correo.com,
+C0145,Fernando Gómez,44,F,Costa Rica,Ciudad de Panamá,Plata,Medio,1104111,9,156349,2024-05-27,Email,0,1.9,inactivo,803.0,fernandogomez@correo.com,83389888
+C0146,Daniela Castro,0,M,panamá,Managua,premium,Bajo,593044,9,153023,14/02/2026,Llamada,0,1.4,ACTIVO,286.0,danielacastro@correo.com,14011939
+C0147,Ana Castro,46,F,Panama,Ciudad de Panamá,Bronce,Medio,794396,14,556546,2025-02-21,App,0,0.5,,547.0,anacastro@correo.com,01571647
+C0148,Diego Araya,18,,Nicaragua,Puntarenas,Bronce,Bajo,521397,15,438255,07-24-2024,Llamada,0,4.0,,549.0,diegoaraya@correo.com,94657967
+C0149,Carlos Vargas,33,F,Costa Rica,Alajuela,Premium,Alto,,13,337478,09-24-2024,App,2,3.4,Pendiente,269.0,carlosvargas@correo.com,67567700
+C0150,Mateo Cordero,46,M,Nicaragua,San Salvador,Plata,Muy alto,542178,13,301068,10/01/2025,Email,1,5.5,activo,478.0,mateocordero@correo.com,65033349
+C0151,Carlos Aguilar,999,No indica,El Salvador,Antigua,Bronce,Muy alto,918186,13,357833,06-19-2024,Email,4,7.2,Inactivo,834.0,carlosaguilar@correo.com,34404963
+C0152,Gabriela Aguilar,31,M,Panamá,San Salvador,Oro,Muy alto,570221,14,207137,11-07-2025,App,0,3.0,inactivo,762.0,gabrielaaguilar@correo.com,08357232
+C0153,Jorge Aguilar,50,,Panamá,San Salvador,Premium,Medio,618306,0,9388,2024-05-19,Email,2,6.0,inactivo,762.0,jorgeaguilar@correo.com,00159416
+C0154,Jimena Soto,35,M,El Salvador,Ciudad de Panamá,Bronce,Alto,617201,14,259932,26/03/2025,,1,5.3,Activo,819.0,jimenasoto@correo.com,34257540
+C0155,Jimena Mora,26,F,Panamá,,Plata,Muy alto,1123573,0,15757,2024-10-07,Correo,4,8.3,ACTIVO,755.0,jimenamora@correo.com,12481569
+C0156,Daniela Rojas,35,F,guate,San Salvador,Premium,Medio,1987430,0,23204,29/03/2026,Llamada,0,3.2,Activo,817.0,danielarojas@correo.com,08931734
+C0157,Paula Alvarado,25,M,el salvador,Ciudad de Guatemala,Premium,Alto,613167,9,296711,sin fecha,Email,0,4.7,Activo,600.0,paulaalvarado@correo.com,72563669
+C0158,Luis Aguilar,46,MASC,El Salvador,San José,Oro,Alto,512716,5,105522,10/05/2024,llamada,2,2.6,Activo,420.0,luisaguilar@correo.com,48562572
+C0159,Valeria Soto,41,m,Nicaragua,Ciudad de Guatemala,Premium,Bajo,1198873,9,317730,06-22-2025,llamada,3,3.0,,307.0,valeriasoto@correo.com,16591520
+C0160,Natalia Ramírez,32,F,Nicaragua,,Bronce,Alto,733412,7,129199,2024-04-01,llamada,0,5.6,,702.0,nataliaramirez@correo.com,76492515
+C0161,Fabiola Solís,18,F,Panamá,Antigua,PREMIUM,Medio,1261651,8,277450,2024-11-03,,1,6.0,activo,507.0,fabiolasolis@correo.com,08186617
+C0162,Fernando Ramírez,999,Female,Guatemala,Antigua,Oro,Muy alto,1216139,3,80365,09-22-2024,Llamada,50,-3,Activo,526.0,fernandoramirez@correo.com,97499564
+C0163,Valeria Vargas,,,Nicaragua,San Salvador,Plata,ALTO,5000,0,-20000,25/07/2024,,2,-3,,838.0,valeriavargas@correo.com,98407678
+C0164,Diego Mora,21,M,Nicaragua,Alajuela,Premium,Muy alto,1177636,7,98945,2025-04-24,Llamada,1,0.5,,815.0,diegomora@correo.com,72934172
+C0165,Carlos Cordero,47,F,Costa Rica,Liberia,Bronce,Alto,736710,5,92300,2024-09-30,Email,2,6.5,Bloqueado,280.0,carloscordero@correo.com,11991808
+C0166,Alonso Chaves,39,F,CR,Puntarenas,Premium,Bajo,302498,11,122860,06-04-2024,email,0,7.3,Pendiente,496.0,alonsochaves@correo.com,50720811
+C0167,Jorge Mora,31,M,Salvador,Antigua,Oro,Bajo,936495,8,105304,03-11-2026,whatsapp,0,2.7,Pendiente,451.0,jorgemora@correo.com,28843188
+C0168,Ana Rojas,45,F,Panamá,Ciudad de Panamá,Oro,Alto,ND,4,141065,10-04-2025,whatsapp,1,0.5,,721.0,anarojas@correo.com,68315893
+C0169,Carlos Soto,28,,Guatemala,Ciudad de Guatemala,Premium,Muy alto,1151746,0,0,2025-12-12,App,0,6.2,ACTIVO,803.0,carlossoto@correo.com,11594082
+C0170,Andrés Torres,18,F,Costa Rica,Liberia,Premium,4,343954,8,316304,2025-09-12,App,1,2.7,Inactivo,519.0,andrestorres@correo.com,
+C0171,Esteban Gómez,29,F,El Salvador,San Salvador,Bronce,Medio,-100000,150,3676406,06-30-2025,App,1,8.1,Inactivo,454.0,,64111824
+C0172,Sofía Torres,51,M,Guatemala,Liberia,PREMIUM,Bajo,537688,5,0,20/07/2025,Correo,0,4.7,Bloqueado,261.0,sofiatorres@correo.com,13824967
+C0173,Kevin Soto,18,F,Nicaragua,Ciudad de Panamá,Oro,Medio,818969,18,"₡254,871",2024-11-03,,0,2.7,ACTIVO,418.0,kevinsoto@correo.com,55474355
+C0174,Ana Soto,33,M,Guatemala,,Bronce,Muy alto,1040819,7,226136.00,2025-01-14,,-1,8.0,Bloqueado,676.0,anasoto@correo.com,43375047
+C0175,Ana Jiménez,51,No indica,El Salvador,Ciudad de Panamá,Plata,Medio,1053490,7,,11-28-2025,SMS,0,3.1,Activo,640.0,anajimenez@correo.com,64187758
+C0176,Camila Cordero,23,No indica,El Salvador,,Bronce,Medio,sin dato,7,303989,2024-09-10,WhatsApp,4,5.4,inactivo,562.0,camilacordero@correo.com,99717911
+C0177,Lucía Castro,34,F,El Salvador,Alajuela,Oro,Muy alto,sin dato,6,61372,2025-11-22,llamada,0,6.1,Pendiente,607.0,luciacastro@correo.com,39284567
+C0178,Diego Soto,35,F,Panamá,Ciudad de Panamá,Oro,Bajo,881933,6,123406,2025-10-17,WhatsApp,0,4.5,,839.0,diegosoto@correo.com,99594652
+C0179,Diego Rojas,22,M,Nicaragua,Puntarenas,Plata,Bajo,0,2,15039,2024-07-22,App,0,1.4,,759.0,diegorojas@correo.com,24102615
+C0180,Diego Chaves,40,Femenino,El Salvador,,Plata,Medio,920088,1,40415,2024-10-28,Correo,0,3.1,ACTIVO,761.0,diegochaves@correo.com,31791286
+C0181,Mateo Pérez,23,F,Nicaragua,Managua,Plata,Medio,754795,8,113746,03-31-2025,Email,1,6.7,ACTIVO,506.0,mateoperez@correo.com,75460273
+C0182,Fabiola Castro,30,m,Panamá,Alajuela,Premium,Alto,397358,13,250165,sin fecha,Correo,0,4.1,,817.0,fabiolacastro@correo.com,07826333
+C0183,Pablo Navarro,31,Femenino,Nicaragua ,Ciudad de Panamá,Plata,Bajo,847077,9,218771,2025-08-24,llamada,0,1.2,Inactivo,847.0,pablonavarro@correo.com,99663618
+C0184,Lucía Monge,50,M,el salvador,San José,Premium,Medio,603757,300,9359018,03/07/2025,llamada,0,3.1,activo,328.0,luciamonge@correo.com,72994938
+C0185,Valeria Rojas,47,M,Guatemala,Managua,Bronce,Alto,3411096,7,56888,07-02-2024,Correo,0,7.3,Inactivo,591.0,valeriarojas@correo.com,32484137
+C0186,Fernando Castro,34,F,Guatemala,Ciudad de Panamá,,Muy alto,0,2,36199,2025-11-03,Llamada,0,2.7,,347.0,fernandocastro@correo.com,24186210
+C0187,Fernando Gómez,34,F,Costa Rica,Ciudad de Panamá,Oro,Bajo,484258,9,error,11-27-2025,Email,4,5.2,Bloqueado,648.0,sin correo,55839386
+C0188,Valeria Vargas,29,M,NI,Alajuela,Oro,Alto,630804,10,303729,04-07-2024,SMS,1,0.5,Activo,713.0,valeriavargas@correo.com,57150997
+C0189,Diego Rojas,18,Male,Guatemala,San José,Plata,Bajo,405899,0,30391.00,25/10/2025,Email,0,6.2,,373.0,diegorojas@correo.com,33968527
+C0190,María Jiménez,69,M,Guatemala,Cartago,Premium,Medio,667236,12,218764,03/01/2025,Llamada,0,3.5,activo,510.0,mariajimenez@correo.com,70661498
+C0191,Paula Navarro,30,Masculino,panamá,Cartago,PREMIUM,Muy alto,699518,11,528955,17/07/2024,WhatsApp,2,5.9,Pendiente,675.0,paulanavarro@correo.com,06633705
+C0192,Camila Alvarado,18,M,Guatemala,San Salvador,Bronce,Medio,1200170,10,15433,02-09-2026,email,0,3.9,inactivo,739.0,camilaalvarado@correo.com,64027011
+C0193,Natalia Torres,33,M,Guatemala,Ciudad de Panamá,Plata,Bajo,2329256,4,5435,22/03/2024,email,0,45,activo,537.0,nataliatorres@correo.com,04090138
+C0194,Alonso Salazar,23,M,Panamá,Cartago,Bronce,Alto,1367092,99,2975540,12/01/2025,,1,3.6,Inactivo,363.0,alonsosalazar@correo.com,50505739
+C0195,Fernando Cordero,60,F,Costa Rica,Liberia,Bronce,ALTO,661727,3,72841,18/04/2024,,0,6.1,Inactivo,480.0,fernandocordero@correo.com,71287153
+C0196,Natalia Aguilar,20,F,El Salvador,Antigua,Oro,Bajo,626285,13,398339,2024-11-14,llamada,0,6.1,ACTIVO,713.0,nataliaaguilar@correo.com,28993160
+C0197,Sofía Torres,41,m,Guatemala,,Bronce,Muy alto,964167,2,52677,08-18-2024,email,3,3.7,Inactivo,686.0,sofiatorres@correo.com,20865675
+C0198,Laura Torres,28,M,Cost Rica,San José,Plata,Muy alto,1049042,19,453392,2025-11-25,Email,5,4.5,Bloqueado,284.0,lauratorres@correo.com,01859626
+C0199,Paula Salazar,28,M,Costa Rica,San Salvador,Bronce,Bajo,,14,101055,28/01/2025,Correo,1,5.2,Inactivo,445.0,paulasalazar@correo.com,82606888
+C0200,Adriana Jiménez,59,Femenino,Guatemala ,Puntarenas,Plata,Muy alto,1794474,5,120677,15/06/2025,SMS,0,4.8,Pendiente,564.0,adrianajimenez@correo.com,88310303
+C0201,Emilio Araya,36,F,Costa Rica,Liberia,Bronce,Muy alto,457090,12,250337,16/06/2024,App,0,2.2,Pendiente,828.0,emilioaraya@correo.com,81861515
+C0202,Esteban Hernández,33,No indica,Costa Rica,Alajuela,Premium,1,2675595,10,367147,01-29-2026,email,1,9.3,,536.0,correo@@mal,22694053
+C0203,José Navarro,55,F,Nicaragua,,Bronce,Muy alto,,7,163948,03-10-2025,Correo,1,2.1,Activo,849.0,josenavarro@correo.com,60930685
+C0204,Emilio Navarro,51,F,GT,Heredia,Premium,Bajo,573906,6,125113.00,10/08/2024,whatsapp,4,7.1,Pendiente,811.0,emilionavarro@correo.com,05097545
+C0205,Paula Chaves,46,,Guatemala,Ciudad de Guatemala,Plata,Alto,646253,8,36091,2025-03-20,Llamada,2,6.3,ACTIVO,274.0,paulachaves@correo.com,02374167
+C0206,Adriana Solís,18,m,Costa Rica,San José,Plata,1,25000000,7,171976,12/09/2024,email,2,3.2,Activo,742.0,adrianasolis@correo.com,18923923
+C0207,Camila Jiménez,45,F,Costa Rica,Ciudad de Panamá,Premium,Muy alto,994153,5,"₡77,968",11-07-2025,whatsapp,0,5.7,ACTIVO,509.0,camilajimenez@correo.com,54110825
+C0208,Diego Ramírez,36,F,ESA,Cartago,PREMIUM,Muy alto,1012810,12,473288,09/01/2025,SMS,0,1.9,inactivo,564.0,diegoramirez@correo.com,29424090
+C0209,Mateo Araya,55,M,Nicaragua,Antigua,Bronce,Alto,910496,0,22435,10-01-2024,,0,3.2,ACTIVO,634.0,mateoaraya@correo.com,24033810
+C0210,Lucía Castro,57,F,El Salvador,San José,Plata,Alto,3298833,4,94852,10-11-2025,llamada,2,2.7,Pendiente,599.0,luciacastro@correo.com,27365271
+C0211,Jimena Gómez,39,F,Costa Rica,Heredia,Plata,Muy alto,441460,13,290939,2025-10-21,App,2,5.1,ACTIVO,610.0,sin correo,85132797
+C0212,Mateo Soto,34,F,Costa Rica,Alajuela,Premium,Alto,446211,14,445984,25/04/2024,email,0,3.4,Pendiente,464.0,mateosoto@correo.com,10922685
+C0213,Fabiola Torres,27,F,Nicaragua,Liberia,Plata,Medio,674887,5,185866,02/04/2024,Correo,0,5.9,Bloqueado,504.0,fabiolatorres@correo.com,52366878
+C0214,Paula Castro,23,F,Guatemala,Cartago,Bronce,Muy alto,502548,5,111494,2025-03-07,WhatsApp,0,5.9,Pendiente,667.0,paulacastro@correo.com,65019179
+C0215,Fernando Soto,38,M,Guatemala,Ciudad de Guatemala,Oro,Bajo,"697,312",8,358015,07-21-2025,Correo,3,5.1,Inactivo,504.0,fernandosoto@correo.com,86236903
+C0216,Jimena Navarro,18,M,Costa Rica,San Salvador,Plata,Alto,,300,8044583,03-28-2024,Email,1,6.1,ACTIVO,439.0,,46835652
+C0217,Jorge Pérez,51,F,Nicaragua,San José,Bronce,Bajo,1335631,13,223028,09-15-2025,llamada,2,0.5,Inactivo,425.0,jorgeperez@correo.com,06339912
+C0218,Kevin Rojas,49,M,Costa Rica,Ciudad de Guatemala,premium,Alto,575885,15,347221,05-06-2024,WhatsApp,0,9.1,Activo,622.0,kevinrojas@correo.com,89551687
+C0219,Pablo Hernández,29,Male,Nicaragua ,Alajuela,Oro,Muy alto,586473,1,13823,10/09/2025,llamada,1,5.7,Bloqueado,577.0,pablohernandez@correo.com,35909605
+C0220,Luis Jiménez,54,M,Guatemala,Liberia,Premium,Medio,sin dato,0,24131,05-01-2025,Llamada,0,3.5,,666.0,correo@@mal,19925502
+C0221,Esteban Aguilar,58,F,Costa Rica,Heredia,Premium,Medio,936040,16,546571,11-10-2024,,0,4.2,Pendiente,498.0,estebanaguilar@correo.com,68512765
+C0222,Ricardo Cordero,18,F,Panamá,Alajuela,Bronce,Muy alto,1045461,14,187273,18/07/2025,email,2,1.2,Bloqueado,726.0,ricardocordero@correo.com,60538444
+C0223,Ana Cordero,36,F,El Salvador,Managua,Premium,Muy alto,434833,8,278319,11-21-2024,,0,7.0,Pendiente,321.0,anacordero@correo.com,48253110
+C0224,Ana Alvarado,26,M,Guatemala,San Salvador,Plata,Medio,2096317,0,0,2025-09-02,email,0,5.4,inactivo,547.0,anaalvarado@correo.com,61706171
+C0225,Fabiola Aguilar,25,F,Guatemala,San Salvador,PREMIUM,Muy alto,682995,3,73585,31/01/2024,SMS,0,3.3,activo,414.0,fabiolaaguilar@correo.com,84776863
+C0226,Paula Vargas,18,M,Nicaragua,Ciudad de Guatemala,Bronce,Muy alto,592294,3,135864,09-10-2025,whatsapp,1,1.4,Bloqueado,735.0,paulavargas@correo.com,123
+C0227,Daniela Monge,41,F,ESA,Alajuela,Premium,Muy alto,689069,0,35482,11-30-2024,Email,1,4.7,,764.0,danielamonge@correo.com,42608805
+C0228,Carlos Cordero,32,M,El Salvador,Ciudad de Guatemala,Premium,Bajo,570797,4,141492,11/01/2026,Email,50,2.2,Pendiente,721.0,carloscordero@correo.com,14596422
+C0229,Lucía Soto,34,M,Nicaragua,Ciudad de Panamá,Oro,Muy alto,,0,24760,17/03/2024,Llamada,0,7.8,Bloqueado,363.0,luciasoto@correo.com,98854728
+C0230,Alonso Chaves,24,f,nicargua,Antigua,Bronce,Bajo,1087155,-2,20700,2024-08-05,llamada,0,5.6,inactivo,472.0,alonsochaves@correo.com,63436294
+C0231,Carlos Mora,18,M,Costa Rica,Cartago,Premium,Bajo,1136114,0,9999999,12-18-2025,Email,0,3.1,Pendiente,439.0,carlosmora@correo.com,72076502
+C0232,Sebastián Rojas,18,M,Guatemala,San José,Plata,Bajo,660624,0,23729,12-07-2024,email,2,7.1,ACTIVO,318.0,sebastianrojas@correo.com,02632570
+C0233,Valeria Castro,44,F,El Salvador,Ciudad de Guatemala,Oro,Muy alto,2979850,19,337922,03/08/2025,SMS,4,1.0,activo,530.0,valeriacastro@correo.com,123
+C0234,Jimena Monge,0,F,costa rica,Puntarenas,Oro,medio,481924,12,140594,10/04/2024,,1,7.8,,776.0,jimenamonge@correo.com,34268344
+C0235,Ricardo Gómez,18,M,Nicaragua,Ciudad de Panamá,Premium,Muy alto,"25,000,000",15,320233,07-10-2025,App,0,6.3,,652.0,ricardogomez@correo.com,87010415
+C0236,Mónica Aguilar,38,No indica,Costa Rica,Ciudad de Panamá,Plata,Medio,sin dato,6,151500,2025-06-16,WhatsApp,,5.5,Pendiente,806.0,monicaaguilar@correo.com,23849791
+C0237,Sofía Hernández,43,M,Panamá,Alajuela,Oro,Bajo,730028,15,192913,11-03-2025,Llamada,3,6.6,ACTIVO,779.0,correo@@mal,58835868
+C0238,Natalia Monge,23,M,Panamá,Alajuela,Premium,Medio,1902523,14,163748,2025-02-17,Email,2,9.5,Activo,314.0,nataliamonge@correo.com,33126610
+C0239,Esteban Castro,,F,Guatemala,,Plata,Muy alto,792091,9,239315,2025-11-15,,2,3.5,Pendiente,495.0,estebancastro@correo.com,28733978
+C0240,Kevin Castro,18,Male,Guatemala,Liberia,Oro,Muy alto,"1,309,892",10,368369,27/05/2025,Correo,0,6.0,ACTIVO,533.0,kevincastro@correo.com,00564350
+C0241,Alonso Mora,34,F,Costa Rica,Alajuela,Premium,Alto,1027287,9,45030,2024-02-26,Email,2,5.3,ACTIVO,659.0,alonsomora@correo.com,06626682
+C0242,Fernando Jiménez,19,F,Costa Rica,,Bronce,Medio,596191,17,413623,05-05-2024,whatsapp,0,6.5,Inactivo,691.0,fernandojimenez@correo.com,37458438
+C0243,Luis Chaves,49,No indica,Guatemala,Ciudad de Panamá,Bronce,Medio,"₡696,957",3,48283.00,2025-05-22,WhatsApp,0,3.9,ACTIVO,361.0,,08509549
+C0244,Pablo Alvarado,22,M,Costa Rica,Ciudad de Panamá,Premium,Alto,556236,10,436330,09-12-2024,WhatsApp,1,5.2,,411.0,pabloalvarado@correo.com,90149542
+C0245,Ana Navarro,45,M,Nicaragua,Liberia,Premium,ALTO,1142746,9,315820,07-07-2024,Correo,0,2.6,,387.0,ananavarro@correo.com,40580935
+C0246,Carlos Pérez,41,m,Nicaragua ,Liberia,Oro,Muy alto,1384192,9,160451,04-18-2024,,0,6.1,inactivo,720.0,carlosperez@correo.com,69026113
+C0247,Ricardo Vargas,42,FEM,El Salvador,Puntarenas,Plata,Alto,625807,2,69800,19/03/2024,Email,1,4.2,Inactivo,592.0,ricardovargas@correo.com,83692944
+C0248,Jorge Cordero,27,M,Guatemala,Ciudad de Guatemala,Premium,Medio,429552,7,250824,10/12/2024,Correo,1,7.1,Inactivo,693.0,jorgecordero@correo.com,67647229
+C0249,Sofía Rojas,24,Male,nicargua,Alajuela,Premium,Muy alto,714637,5,157746,22/09/2025,Correo,0,4.7,Pendiente,513.0,sofiarojas@correo.com,49134213
+C0250,Ana Alvarado,58,M,Costa Rica,San José,Premium,Medio,1217685,0,13002,10-12-2024,Correo,4,5.6,ACTIVO,383.0,anaalvarado@correo.com,54781506
+C0251,Valeria Araya,999,M,Guatemala ,Cartago,Premium,Muy alto,687340,0,23996,08-01-2024,llamada,0,4.6,activo,600.0,valeriaaraya@correo.com,24347769
+C0252,Carlos Hernández,52,F,Nicaragua,San Salvador,Oro,Alto,1418530,14,177659,2025-06-03,WhatsApp,2,4.9,activo,407.0,carloshernandez@correo.com,76640473
+C0253,Daniela Cordero,38,F,Costa Rica,Managua,Bronce,Bajo,1095388,18,158967,2024-07-22,llamada,0,3.8,Activo,347.0,danielacordero@correo.com,83000818
+C0254,José Torres,31,F,Panamá,Antigua,Oro,Bajo,-100000,11,244974,15/11/2024,Correo,1,1.1,Bloqueado,310.0,josetorres@correo.com,64613684
+C0255,Paula Rojas,53,M,Costa Rica,Managua,Premium,Bajo,999648,7,242842,24/05/2024,App,0,8.5,Bloqueado,389.0,paularojas@correo.com,45205996
+C0256,Adriana Araya,38,F,Panamá,Ciudad de Guatemala,Premium,Muy alto,862440,1,33674,05-23-2024,SMS,50,3.2,ACTIVO,427.0,adrianaaraya@correo.com,85959224
+C0257,Laura Alvarado,33,F,Guatemala ,San José,Plata,Bajo,708697,13,461115,2025-07-26,Email,0,5.7,Bloqueado,797.0,lauraalvarado@correo.com,59648831
+C0258,Camila Gómez,33,M,Nicaragua,Managua,Bronce,Medio,611236,10,364691,30/11/2024,email,0,5.6,,481.0,camilagomez@correo.com,85819324
+C0259,Mateo Ramírez,27,M,Costa Rica,Ciudad de Guatemala,Plata,Medio,sin dato,2,57918,09-16-2024,llamada,1,7.4,Inactivo,537.0,mateoramirez@correo.com,44090797
+C0260,Luis Chaves,59,F,Guatemala,San José,Oro,Medio,1337174,9,264259,,email,0,4.0,Pendiente,366.0,luischaves@correo.com,41270493
+C0261,Natalia Rojas,28,M,Costa Rica,Ciudad de Guatemala,Bronce,Bajo,2245960,13,294677,07-14-2024,llamada,0,3.2,ACTIVO,357.0,nataliarojas@correo.com,33432447
+C0262,Gabriela Chaves,23,F,Guatemala ,Heredia,Premium,Alto,399529,13,519419,2024-02-02,Email,1,6.8,Pendiente,444.0,gabrielachaves@correo.com,05150267
+C0263,Alonso Chaves,,M,El Salvador,Managua,Plata,Alto,"985,198",13,450126,14/08/2025,llamada,0,3.3,inactivo,608.0,alonsochaves@correo.com,92250142
+C0264,José Navarro,40,Masculino,costa rica,Antigua,PREMIUM,Medio,675675,8,110587,08/04/2024,SMS,2,1.3,ACTIVO,789.0,josenavarro@correo.com,sin telefono
+C0265,Fernando Aguilar,33,F,Costa Rica,Heredia,Premium,2,1042440,7,357626,11-29-2025,email,0,6.0,Activo,311.0,fernandoaguilar@correo.com,
+C0266,Andrés Cordero,33,M,Nicaragua,Ciudad de Guatemala,Oro,Muy alto,1051686,15,190742,16/04/2025,,1,5.7,Inactivo,655.0,,24560754
+C0267,Fernando Mora,22,M,Guatemala,San Salvador,Premium,Medio,,7,64846,21/03/2024,SMS,1,120,Activo,683.0,fernandomora@correo.com,61394498
+C0268,Fernando Monge,18,Female,Guatemala,San Salvador,Oro,Muy alto,300337,9,251168,27/12/2025,llamada,1,1.9,Pendiente,526.0,fernandomonge@correo.com,86780555
+C0269,Daniela Salazar,38,M,Costa Rica,Managua,Oro,medio,1533993,15,587079,17/03/2025,,0,5.3,activo,544.0,danielasalazar@correo.com,26911633
+C0270,José Gómez,37,M,Panamá,Antigua,Oro,Alto,850692,0,18348,sin fecha,Email,2,9.5,inactivo,309.0,josegomez@correo.com,66309329
+C0271,Ana Aguilar,28,F,panamá,Ciudad de Panamá,Plata,Medio,1369988,6,95978,2026-03-26,email,0,5.2,activo,449.0,anaaguilar@correo.com,71006876
+C0272,Fabiola Araya,49,,Costa Rica,,Bronce,Muy alto,795768,13,313565,2024-12-13,,2,3.8,activo,635.0,fabiolaaraya@correo.com,73454757
+C0273,Emilio Mora,34,F,Panamá,,Oro,Muy alto,992717,5,146865,20/08/2025,llamada,0,3.5,Pendiente,772.0,emiliomora@correo.com,25298585
+C0274,Esteban Pérez,20,Femenino,Costa Rica,Liberia,Bronce,Alto,,8,187470,12-03-2024,App,1,2.8,activo,774.0,correo@@mal,34233720
+C0275,María Jiménez,31,M,Panama,Cartago,Bronce,Bajo,650027,0,26773,04-24-2024,App,2,7.2,activo,619.0,,94725878
+C0276,Esteban Araya,34,MASC,NI,Ciudad de Guatemala,Plata,ALTO,785851,12,206615,06/08/2024,whatsapp,0,4.5,,430.0,estebanaraya@correo.com,25236229
+C0277,Natalia Alvarado,39,M,Nicaragua,Liberia,Oro,Alto,792100,0,149,2025/99/99,Email,0,7.9,Inactivo,474.0,nataliaalvarado@correo.com,58833987
+C0278,Diego Gómez,27,M,Costa Rica,Antigua,Premium,Muy bajo,983519,13,470226,2025-02-27,whatsapp,1,7.4,,513.0,diegogomez@correo.com,48840215
+C0279,Pablo Jiménez,39,F,Panamá,,Sin segmento,Muy alto,676770,13,229174,03-09-2024,Llamada,0,7.1,ACTIVO,345.0,pablojimenez@correo.com,97931647
+C0280,María Gómez,27,F,Nicaragua,Antigua,Premium,Alto,721142,4,33249,12-29-2024,email,0,4.2,activo,0,mariagomez@correo.com,85155333
+C0281,Diego Jiménez,34,No indica,Costa Rica,Antigua,Plata,Muy alto,798746,6,221001,2024-06-15,email,0,4.3,Inactivo,440.0,diegojimenez@correo.com,
+C0282,Fernando Chaves,55,,Panamá,,Premium,Muy alto,,4,139205,10/06/2024,App,3,2.5,ACTIVO,736.0,fernandochaves@correo.com,12073465
+C0283,Ana Rojas,-1,F,Costa Rica,Managua,Bronce,Medio,478934,17,576869,25/04/2025,Email,1,6.9,inactivo,680.0,anarojas@correo.com,93238223
+C0284,Andrés Alvarado,40,M,Panamá,Ciudad de Guatemala,Plata,Alto,sin dato,10,0,2024-08-31,App,0,0.5,ACTIVO,363.0,andresalvarado@correo.com,67379487
+C0285,Lucía Gómez,33,M,Costa Rica,Puntarenas,PREMIUM,Bajo,574779,17,520038,03-25-2024,Correo,2,3.5,Bloqueado,335.0,luciagomez@correo.com,
+C0286,Mónica Pérez,37,FEM,El Salvador,,Plata,Muy alto,ND,10,202959,2024-03-09,App,0,3.5,Pendiente,833.0,monicaperez@correo.com,62669335
+C0287,Fabiola Solís,48,M,nicargua,Puntarenas,Bronce,Muy alto,586503,13,479612,2024-10-05,SMS,3,8.4,,601.0,fabiolasolis@correo.com,74381199
+C0288,Jimena Cordero,18,M,Panamá,San Salvador,Oro,Bajo,824940,11,490350,02/08/2025,email,2,4.7,Activo,315.0,jimenacordero@correo.com,19113599
+C0289,Fernando Navarro,43,Femenino,Nicaragua,San José,PREMIUM,2,2003046,2,14957,18/02/2024,SMS,6,9.5,ACTIVO,376.0,fernandonavarro@correo.com,56527155
+C0290,Jimena Torres,49,No indica,Nicaragua,Antigua,Oro,Alto,726508,12,81876,2025-12-13,Email,0,3.5,ACTIVO,493.0,jimenatorres@correo.com,85626149
+C0291,Diego Navarro,38,F,Costa Rica,,Premium,Medio,574175,4,43981,07-09-2024,Llamada,1,5.8,ACTIVO,698.0,diegonavarro@correo.com,46553585
+C0292,Esteban Hernández,38,F,El Salvador,Ciudad de Panamá,Plata,Bajo,"802,426",-2,20470,2024-05-31,App,0,4.5,ACTIVO,818.0,estebanhernandez@correo.com,76263748
+C0293,Diego Monge,38,F,El Salvador,San José,Oro,Bajo,1021631,2,18192,26/10/2025,email,0,2.7,activo,671.0,diegomonge@correo.com,67252145
+C0294,Mateo Castro,38,F,Costa Rica,Alajuela,Bronce,Bajo,ND,12,570184,2024-06-25,Correo,0,5.6,Inactivo,308.0,mateocastro@correo.com,123
+C0295,Kevin Torres,39,Femenino,Guatemala,Ciudad de Guatemala,Oro,Muy alto,974189,7,31345.00,11-06-2025,SMS,1,5.0,activo,643.0,kevintorres@correo.com,88683452
+C0296,Natalia Cordero,24,M,Panamá,Managua,Oro,Bajo,866478,10,351476,2025-07-01,Llamada,0,3.3,Bloqueado,281.0,nataliacordero@correo.com,88285031
+C0297,Mónica Aguilar,41,F,C.R.,Cartago,Bronce,Alto,"1,265,920",9,160808,12-28-2025,SMS,4,3.7,Inactivo,,monicaaguilar@correo.com,37490607
+C0298,Natalia Vargas,53,M,PAN,San Salvador,Oro,Alto,1849795,15,282100,2024-07-07,whatsapp,2,5.0,activo,513.0,nataliavargas@correo.com,08335090
+C0299,Alonso Gómez,29,Femenino,Guatemala,Ciudad de Panamá,Oro,Muy alto,440204,10,313379,07/03/2024,WhatsApp,0,7.0,Inactivo,0,alonsogomez@correo.com,06090691
+C0300,Ana Salazar,49,M,Nicaragua,Cartago,Premium,Medio,632139,5,173080,2026-01-27,email,0,4.3,,778.0,anasalazar@correo.com,25366677
+C0301,Fernando Aguilar,28,No indica,Guatemala,Managua,Oro,Muy alto,737166,12,14549,2025-02-26,,0,6.1,Bloqueado,812.0,fernandoaguilar@correo.com,03692492
+C0302,Sofía Cordero,30,F,Nicaragua,Managua,Bronce,Muy bajo,734592,11,364142,11-19-2024,llamada,0,4.3,activo,432.0,sofiacordero@correo.com,22618962
+C0303,Mónica Hernández,51,F,C.R.,Ciudad de Guatemala,Oro,Medio,813026,6,129125,01/10/2025,Llamada,3,5.5,ACTIVO,826.0,monicahernandez@correo.com,41597099
+C0304,Esteban Ramírez,37,Masculino,Nicaragua,Heredia,Oro,Muy alto,713189,11,248793,01-11-2024,App,0,5.3,Bloqueado,483.0,estebanramirez@correo.com,65586652
+C0305,Mateo Torres,31,Femenino,Panamá,Alajuela,Bronce,Medio,754993,18,464521,2025-09-24,SMS,1,4.8,Activo,774.0,mateotorres@correo.com,sin telefono
+C0306,Mónica Castro,21,F,Nicaragua,Heredia,Bronce,Alto,910579,12,416808,29/08/2025,WhatsApp,1,1.9,inactivo,745.0,monicacastro@correo.com,44210175
+C0307,María Navarro,53,F,Panamá,Managua,Oro,Muy alto,734591,8,199377,17/04/2025,email,2,6.1,Pendiente,789.0,marianavarro@correo.com,66025626
+C0308,Sofía Monge,150,MASC,panamá,Antigua,Plata,Muy alto,316745,6,167844,2024-10-23,whatsapp,4,4.6,Pendiente,258.0,sofiamonge@correo.com,49691928
+C0309,Fernando Monge,38,m,Guatemala,,Premium,Alto,926449,7,30183,2024-08-30,whatsapp,50,0.7,Activo,339.0,fernandomonge@correo.com,79417634
+C0310,Mateo Hernández,34,M,Salvador,Puntarenas,Plata,Medio,1062166,8,15000000,,llamada,0,6.6,activo,339.0,mateohernandez@correo.com,97514743
+C0311,José Monge,54,M,El Salvador,Heredia,Premium,Muy alto,445759,17,410161,2025-12-31,WhatsApp,3,4.2,inactivo,348.0,josemonge@correo.com,55516517
+C0312,Natalia Solís,28,,GT,Cartago,Bronce,medio,638768,2,,2025-05-19,Correo,1,8.0,Activo,604.0,nataliasolis@correo.com,05195826
+C0313,Alonso Alvarado,30,M,Guatemala,Liberia,Premium,Muy alto,792288,14,357196,2024-07-29,SMS,1,5.8,Pendiente,379.0,alonsoalvarado@correo.com,70394380
+C0314,Esteban Aguilar,41,M,Nicaragua,Heredia,Oro,Medio,ND,19,535700.00,2025-10-31,llamada,0,6.9,activo,524.0,estebanaguilar@correo.com,31072011
+C0315,Camila Rojas,29,Male,Costa Rica,Antigua,Premium,Bajo,901655,2,,2024-07-11,llamada,2,7.2,Pendiente,588.0,camilarojas@correo.com,73045195
+C0316,Fernando Chaves,31,M,Nicaragua ,Puntarenas,Plata,Muy alto,ND,1,18845,2025-11-27,Correo,0,6.5,Activo,337.0,fernandochaves@correo.com,29236161
+C0317,Laura Vargas,25,M,Guatemala,Puntarenas,Oro,Muy alto,935476,6,144307,2025-12-11,App,3,3.8,Inactivo,547.0,lauravargas@correo.com,123
+C0318,Valeria Gómez,42,F,Costa Rica,Puntarenas,Oro,Alto,571576,1,36349,01/02/2024,Email,2,5.4,Inactivo,309.0,valeriagomez@correo.com,57060717
+C0319,Diego Vargas,18,M,Costa Rica,Ciudad de Panamá,Premium,,777504,10,382727,12-15-2025,Llamada,3,3.4,inactivo,424.0,diegovargas@correo.com,21377306
+C0320,Luis Torres,38,F,Guatemala,,Oro,5,923789,300,6163975,07-24-2025,Correo,0,4.1,ACTIVO,465.0,luistorres@correo.com,21021923
+C0321,Ricardo Ramírez,18,f,Costa Rica,Cartago,Sin segmento,Muy bajo,854240,9,156514,2025-05-06,Email,0,8.4,Pendiente,483.0,ricardoramirez@correo.com,12282178
+C0322,Diego Cordero,40,M,Costa Rica,San José,PREMIUM,Medio,1055922,3,38342,21/10/2024,,0,2.0,ACTIVO,301.0,diegocordero@correo.com,05464754
+C0323,Alonso Torres,42,F,El Salvador,San Salvador,Bronce,Alto,905172,3,103300,2024-11-27,SMS,0,2.8,,561.0,alonsotorres@correo.com,63924358
+C0324,Gabriela Pérez,42,F,Guatemala,San Salvador,Premium,Muy alto,833530,15,261004,2025-02-06,llamada,2,3.8,inactivo,811.0,gabrielaperez@correo.com,89634067
+C0325,Paula Aguilar,39,MASC,Costa Rica,Liberia,Bronce,Muy alto,892606,10,167993,09-30-2024,Email,-1,5.4,Inactivo,353.0,paulaaguilar@correo.com,89021994
+C0326,Diego Cordero,36,f,Guatemala,San José,Premium,Medio,1137298,13,181736,18/05/2025,whatsapp,1,6.6,inactivo,619.0,diegocordero@correo.com,52196263
+C0327,Camila Hernández,28,No indica,Costa Rica,Managua,Bronce,Alto,758639,0,14600,23/09/2024,Correo,0,5.5,activo,569.0,,123
+C0328,Daniela Soto,27,F,Guatemala,Heredia,Bronce,Medio,622447,150,3071958,2026-03-12,email,2,4.3,Pendiente,357.0,danielasoto@correo.com,05248088
+C0329,José Mora,18,M,Panamá,Liberia,Plata,Medio,1316766,-2,11445,13/01/2026,SMS,0,4.4,Inactivo,722.0,josemora@correo.com,64862872
+C0330,Emilio Chaves,37,F,Panamá,Puntarenas,Plata,Medio,"999,355",5,118981,28/07/2024,Correo,4,6.9,,634.0,emiliochaves@correo.com,57661945
+C0331,Luis Salazar,43,M,Costa Rica,Heredia,Premium,Alto,457821,9,209032,24/03/2025,email,1,5.5,activo,699.0,luissalazar@correo.com,26574223
+C0332,Paula Hernández,43,M,ESA,Antigua,Plata,Bajo,1931172,9,193212,12-16-2024,SMS,0,3.9,Bloqueado,596.0,paulahernandez@correo.com,55829849
+C0333,Jimena Rojas,25,Femenino,nicargua,Liberia,Plata,Medio,820357,9,211153,06-15-2024,llamada,3,2.6,inactivo,784.0,jimenarojas@correo.com,26705514
+C0334,Gabriela Jiménez,18,M,Guatemala,Managua,Bronce,ALTO,1051418,13,371800.00,2024-06-30,,5,1.7,Activo,746.0,gabrielajimenez@correo.com,02451091
+C0335,Jimena Jiménez,40,F,Panamá,Managua,Oro,3,946715,0,10811,2025-11-11,,2,2.8,Inactivo,426.0,jimenajimenez@correo.com,123
+C0336,Sofía Vargas,40,Male,Panamá,Managua,Bronce,Alto,"1,299,303",7,154282,2025-02-02,whatsapp,0,5.3,Pendiente,768.0,sofiavargas@correo.com,65920246
+C0337,Luis Soto,35,M,Guatemala,San José,Oro,Bajo,785762,14,199446,06-25-2025,Email,1,1.9,,730.0,luissoto@correo.com,84870450
+C0338,Jimena Cordero,57,M,Panamá,Cartago,Bronce,Alto,647829,99,4271230,sin fecha,Email,2,3.8,ACTIVO,598.0,jimenacordero@correo.com,
+C0339,Natalia Hernández,36,Femenino,PAN,San Salvador,Plata,Alto,"614,560",7,171791,24/03/2026,SMS,0,4.7,activo,710.0,nataliahernandez@correo.com,17941515
+C0340,Pablo Rojas,48,F,CR,Heredia,Oro,2,1261803,4,126362,2025-12-15,WhatsApp,1,7.3,ACTIVO,718.0,pablorojas@correo.com,55300730
+C0341,Natalia Aguilar,18,F,Costa Rica,Managua,Premium,Alto,1560255,12,348800,05-20-2024,Email,0,5.0,Pendiente,497.0,nataliaaguilar@correo.com,17446004
+C0342,Alonso Pérez,18,F,Panamá,Puntarenas,Bronce,Alto,461401,2,36083,07-19-2025,WhatsApp,3,0.5,,801.0,alonsoperez@correo.com,40211901
+C0343,Kevin Chaves,29,F,guate,Heredia,Bronce,Medio,,9,74067,2024-08-31,,1,3.2,,426.0,kevinchaves@correo.com,69443916
+C0344,Ana Vargas,27,,Guatemala,Managua,Bronce,Medio,1712436,9,341245,2025-12-13,SMS,0,4.1,Bloqueado,639.0,anavargas@correo.com,66847323
+C0345,Mateo Salazar,46,M,Guatemala,,Bronce,Medio,691663,6,210626,07-24-2024,whatsapp,2,5.7,activo,538.0,mateosalazar@correo.com,37638821
+C0346,Mónica Vargas,31,M,Costa Rica,Cartago,Plata,Bajo,2084337,15,462758,13/12/2025,Correo,1,8.0,ACTIVO,589.0,monicavargas@correo.com,93350557
+C0347,Mateo Hernández,20,Female,Guatemala,San José,Bronce,4,804158,10,230017,10-20-2025,WhatsApp,3,9.5,,617.0,mateohernandez@correo.com,98307482
+C0348,Jimena Jiménez,41,No indica,Guatemala,Liberia,Oro,Medio,936912,0,22595,15/05/2024,WhatsApp,1,1.4,Pendiente,321.0,jimenajimenez@correo.com,46212760
+C0349,Sebastián Cordero,49,M,Costa Rica,,Oro,Medio,1584159,13,439937,2025-09-12,email,2,8.3,Pendiente,427.0,sebastiancordero@correo.com,19120381
+C0350,Luis Pérez,44,F,Costa Rica,Managua,Bronce,Bajo,641915,17,482672,2025-10-13,WhatsApp,1,3.6,Inactivo,578.0,luisperez@correo.com,24500000
+C0351,Lucía Gómez,35,M,Guatemala,Alajuela,Bronce,Alto,545395,0,22304,11-15-2025,WhatsApp,0,6.0,Activo,340.0,luciagomez@correo.com,90567086
+C0352,Ana Ramírez,42,F,El Salvador,Heredia,Plata,Medio,1545470,4,32969.00,24/02/2024,Email,0,3.2,Activo,621.0,correo@@mal,21040164
+C0353,Camila Ramírez,50,F,Guatemala,Antigua,Bronce,Medio,1262395,6,92210,05/09/2024,whatsapp,0,1.8,activo,509.0,camilaramirez@correo.com,41706462
+C0354,Esteban Mora,42,No indica,El Salvador,Liberia,Plata,Alto,770509,16,0,2025-01-12,SMS,0,4.6,ACTIVO,449.0,estebanmora@correo.com,05040433
+C0355,Valeria Pérez,33,No indica,Guatemala,Alajuela,Premium,Bajo,924541,12,317620,2024-08-19,WhatsApp,2,6.2,Pendiente,801.0,valeriaperez@correo.com,56178688
+C0356,Valeria Rojas,36,F,Costa Rica,Managua,Premium,Muy alto,sin dato,7,253880,2024-12-20,WhatsApp,0,2.7,Pendiente,773.0,valeriarojas@correo.com,18433687
+C0357,Adriana Cordero,41,f,El Salvador,Alajuela,Premium,Muy alto,1252487,16,503071,19/05/2025,,4,2.2,Inactivo,308.0,adrianacordero@correo.com,00308356
+C0358,Jimena Rojas,20,m,guate,Cartago,Premium,Medio,801925,12,242814,27/09/2024,SMS,0,3.9,Bloqueado,253.0,jimenarojas@correo.com,35437882
+C0359,Natalia Chaves,29,F,Costa Rica,San José,Oro,Bajo,1147391,6,73684,10-01-2025,,2,3.2,Bloqueado,635.0,nataliachaves@correo.com,71842859
+C0360,Sofía Aguilar,24,F,El Salvador,Cartago,Premium,Medio,1231922,6,133766,2025-10-17,Correo,0,4.5,Pendiente,354.0,sofiaaguilar@correo.com,38935953
+C0361,Sebastián Araya,35,Femenino,Panamá,San Salvador,Premium,Medio,624325,0,35580,2025-10-07,email,0,6.3,Pendiente,309.0,sebastianaraya@correo.com,38595143
+C0362,Diego Monge,36,F,Costa Rica,Heredia,Sin segmento,Muy alto,850223,3,"₡135,601",09-18-2025,App,0,4.0,activo,443.0,diegomonge@correo.com,83976205
+C0363,Ana Salazar,18,M,Nicaragua,,Plata,Bajo,1231443,10,302267,sin fecha,Email,0,5.2,,389.0,anasalazar@correo.com,55235617
+C0364,Ana Jiménez,49,Female,el salvador,Alajuela,Oro,3,3838260,0,34716,2026-01-13,Correo,0,3.1,Inactivo,556.0,anajimenez@correo.com,44037341
+C0365,Alonso Soto,50,Male,guate,San Salvador,Plata,Alto,733284,3,58296,08-25-2024,Email,0,2.7,,848.0,alonsosoto@correo.com,97079866
+C0366,Mateo Mora,18,F,Guatemala,San José,Plata,Medio,435720,14,15000000,2025-04-03,Correo,0,2.0,activo,641.0,mateomora@correo.com,92596790
+C0367,Diego Cordero,23,F,Guatemala,Puntarenas,Premium,Alto,854289,3,68383,17/10/2024,Llamada,1,2.3,Activo,798.0,diegocordero@correo.com,52386767
+C0368,Alonso Alvarado,22,F,Nicaragua,Ciudad de Panamá,Premium,Medio,1142692,9,354081,02-12-2025,Llamada,1,5.5,activo,-100,alonsoalvarado@correo.com,66957900
+C0369,Fabiola Araya,42,M,Guatemala,Antigua,Oro,Alto,614106,15,526364,07-18-2024,,3,1.8,Pendiente,349.0,fabiolaaraya@correo.com,52857256
+C0370,Paula Monge,37,M,Panamá,Ciudad de Panamá,Premium,Muy alto,15000000,15,15000000,05-02-2024,SMS,2,6.4,inactivo,798.0,paulamonge@correo.com,38593401
+C0371,Andrés Castro,27,F,costa rica,Puntarenas,Premium,Bajo,,12,404371,2026-02-27,SMS,0,2.1,ACTIVO,819.0,andrescastro@correo.com,78092704
+C0372,Paula Gómez,55,M,Nicaragua,Puntarenas,Premium,Alto,703107,0,23054,25/08/2025,WhatsApp,2,1.7,Pendiente,618.0,paulagomez@correo.com,91165020
+C0373,Kevin Torres,27,F,Guatemala,Puntarenas,Oro,Bajo,887249,10,220973,01-30-2025,Llamada,1,6.5,ACTIVO,664.0,kevintorres@correo.com,74620258
+C0374,Andrés Jiménez,38,F,El Salvador,Alajuela,Plata,Medio,1931467,7,156222,2025-05-16,whatsapp,1,0.5,activo,710.0,andresjimenez@correo.com,72257754
+C0375,Mateo Soto,18,F,el salvador,Antigua,Premium,Medio,971082,14,313938,2024-07-09,SMS,0,3.4,Pendiente,619.0,mateosoto@correo.com,16591438
+C0376,Lucía Chaves,31,M,Guatemala,Liberia,Premium,Muy alto,273265,4,93666,09-17-2025,Correo,0,6.4,,766.0,luciachaves@correo.com,27120539
+C0377,Pablo Vargas,38,Femenino,El Salvador,Ciudad de Panamá,Plata,1,580000,15,456307,03/12/2025,WhatsApp,1,3.7,Bloqueado,376.0,pablovargas@correo.com,58523860
+C0378,Ana Ramírez,42,M,El Salvador,Managua,Oro,Bajo,1110033,7,232653,01-22-2026,Email,1,-3,Bloqueado,845.0,anaramirez@correo.com,71912602
+C0379,José Vargas,52,Female,Guatemala,Alajuela,Oro,5,1154487,0,25595,2026-01-17,Correo,1,0.5,inactivo,572.0,josevargas@correo.com,48124211
+C0380,Natalia Pérez,999,FEM,GT,Antigua,Oro,Alto,2462576,11,292670,05-11-2024,WhatsApp,2,3.4,activo,522.0,nataliaperez@correo.com,58585642
+C0381,María Soto,69,Male,Panamá,Ciudad de Guatemala,Plata,Bajo,723813,10,190534,19/04/2024,App,4,5.4,Inactivo,-100,sin correo,10956797
+C0382,Fernando Navarro,18,F,Guatemala,Liberia,premium,Bajo,431269,3,79443,2025-07-21,Email,0,4.9,ACTIVO,347.0,fernandonavarro@correo.com,81571290
+C0383,Mónica Mora,26,F,guate,Puntarenas,Oro,Alto,"840,974",-2,29635,03-12-2025,Llamada,50,7.2,Inactivo,450.0,monicamora@correo.com,39627466
+C0384,Fernando Monge,42,F,CR,Antigua,Oro,Bajo,2215798,9,15000000,07-10-2025,,1,5.9,,629.0,correo@@mal,
+C0385,Alonso Solís,37,M,Cost Rica,Ciudad de Guatemala,Oro,2,663478,1,33075,12-06-2025,Correo,1,1.7,Pendiente,847.0,,26203708
+C0386,Carlos Castro,18,M,Panamá,Cartago,Bronce,3,915660,13,423410,23/09/2024,WhatsApp,0,1.0,activo,780.0,carloscastro@correo.com,39785708
+C0387,Ricardo Mora,24,M,Guatemala,Antigua,Bronce,Bajo,1681590,10,323116,04-19-2025,email,1,7.5,Activo,536.0,ricardomora@correo.com,95314196
+C0388,Mateo Araya,29,M,El Salvador,Puntarenas,,Muy alto,428262,5,104447,09-28-2024,Llamada,0,7.6,Activo,516.0,mateoaraya@correo.com,62259364
+C0389,Laura Monge,54,F,El Salvador,San José,Premium,Muy alto,₡0,5,155090,01-01-2025,whatsapp,1,2.4,Inactivo,774.0,lauramonge@correo.com,37605230
+C0390,Paula Aguilar,37,M,Panamá,Ciudad de Guatemala,Premium,Bajo,2192354,0,30975,2026-02-04,email,0,2.8,Inactivo,702.0,paulaaguilar@correo.com,06782141
+C0391,Kevin Hernández,42,F,Panamá,Managua,Premium,Muy alto,631071,2,34312,2024-02-20,WhatsApp,0,7.3,Bloqueado,757.0,kevinhernandez@correo.com,36051171
+C0392,Jimena Alvarado,18,F,Panamá,,Oro,Bajo,1132100,5,238422,10-07-2024,,1,6.2,,446.0,jimenaalvarado@correo.com,45657758
+C0393,Kevin Torres,37,M,ESA,Cartago,Premium,Medio,1185070,0,16106,2024-02-24,email,1,5.9,Activo,355.0,kevintorres@correo.com,76774625
+C0394,Carlos Castro,42,M,El Salvador,Liberia,Bronce,Bajo,406237,15,258405,01/01/2025,SMS,3,4.3,,331.0,carloscastro@correo.com,26121203
+C0395,Lucía Hernández,18,f,Salvador,San Salvador,Plata,Bajo,1308394,11,362299.00,17/09/2024,,0,0.5,Inactivo,772.0,luciahernandez@correo.com,23274897
+C0396,Daniela Navarro,43,MASC,Guatemala,San José,Plata,Muy alto,1001085,5,139556,01-30-2025,email,5,3.4,,748.0,danielanavarro@correo.com,53400181
+C0397,Mateo Pérez,28,M,Guatemala,Liberia,Premium,4,,18,101962,10-28-2025,Llamada,0,5.9,Activo,524.0,mateoperez@correo.com,86999698
+C0398,Andrés Aguilar,18,F,Nicaragua,Liberia,Premium,Medio,1756410,8,154619,11-06-2025,WhatsApp,0,4.4,Pendiente,590.0,andresaguilar@correo.com,123
+C0399,Diego Gómez,35,M,Nicaragua,San José,Bronce,Bajo,"₡1,147,013",7,177054,2025-10-18,WhatsApp,2,7.5,,720.0,diegogomez@correo.com,sin telefono
+C0400,Jimena Solís,34,F,Panamá,Managua,Bronce,Muy alto,25000000,7,196667,,Correo,1,5.3,Bloqueado,803.0,jimenasolis@correo.com,70890583
+C0401,Andrés Araya,43,F,Guatemala,Ciudad de Guatemala,Bronce,Muy alto,-100000,12,error,2024-05-09,,0,2.5,ACTIVO,465.0,andresaraya@correo.com,98260418
+C0402,Alonso Soto,53,F,Costa Rica,Ciudad de Guatemala,Plata,Muy alto,1220887,4,62157,21/05/2024,WhatsApp,0,4.3,ACTIVO,557.0,,54218545
+C0403,Jorge Pérez,50,F,Panamá,San José,Bronce,2,407694,14,472365,06-30-2024,Email,1,8.3,inactivo,0,jorgeperez@correo.com,82247312
+C0404,Alonso Araya,52,F,Costa Rica,Ciudad de Panamá,PREMIUM,Medio,572384,3,error,31/02/2025,Llamada,2,8.6,,253.0,alonsoaraya@correo.com,18948543
+C0405,Jorge Monge,26,M,El Salvador,Ciudad de Guatemala,Bronce,Medio,617637,6,201848,11-10-2025,email,1,5.2,activo,378.0,jorgemonge@correo.com,57483526
+C0406,Ricardo Cordero,46,M,Panamá,Ciudad de Panamá,Oro,Muy alto,1658468,9,161856,21/02/2024,App,1,6.8,Activo,488.0,ricardocordero@correo.com,09085510
+C0407,Sebastián Alvarado,41,,Nicaragua,Antigua,PREMIUM,Muy alto,983133,300,9710683,03-26-2024,whatsapp,0,3.9,Bloqueado,513.0,sebastianalvarado@correo.com,95002601
+C0408,Esteban Gómez,43,M,El Salvador,San Salvador,premium,3,486756,5,168935,2025-10-21,WhatsApp,1,5.4,Bloqueado,840.0,estebangomez@correo.com,34039104
+C0409,Jorge Mora,18,F,El Salvador,Managua,Oro,Medio,1474697,7,"₡128,451",21/02/2025,SMS,1,4.3,,507.0,jorgemora@correo.com,01867740
+C0410,Laura Ramírez,31,M,Guatemala,Liberia,Bronce,3,742010,150,1520416,23/01/2025,,3,1.9,Activo,572.0,correo@@mal,123
+C0411,Natalia Cordero,35,F,El Salvador,Antigua,Plata,2,ND,6,208634,07-23-2025,Llamada,2,3.7,,606.0,nataliacordero@correo.com,26033620
+C0412,Fernando Chaves,29,Male,Costa Rica,Heredia,PREMIUM,Medio,1223461,7,279464,12-27-2024,,1,7.0,ACTIVO,662.0,fernandochaves@correo.com,18638558
+C0413,Gabriela Navarro,29,,El Salvador,,Plata,Medio,935856,2,28280,2025-11-04,App,0,4.7,,251.0,gabrielanavarro@correo.com,48232204
+C0414,Camila Jiménez,30,F,Costa Rica,Puntarenas,Plata,Bajo,386303,0,36727,2025-01-02,WhatsApp,0,8.1,ACTIVO,789.0,camilajimenez@correo.com,65064630
+C0415,Mónica Alvarado,36,F,ESA,Heredia,Bronce,Bajo,816152,17,406661,2024-09-26,whatsapp,1,2.2,inactivo,482.0,monicaalvarado@correo.com,31670805
+C0416,Jimena Solís,18,M,Nicaragua,Alajuela,Bronce,Alto,sin dato,10,271108,04/08/2025,whatsapp,0,6.5,ACTIVO,364.0,jimenasolis@correo.com,61142436
+C0417,Camila Soto,45,F,Costa Rica,Ciudad de Guatemala,Premium,Alto,1365174,11,60426,15/10/2024,whatsapp,0,3.4,activo,569.0,camilasoto@correo.com,30311587
+C0418,Fernando Navarro,36,M,Nicaragua,Ciudad de Guatemala,Oro,Alto,1607122,3,31683,06/03/2024,,0,7.0,Pendiente,472.0,fernandonavarro@correo.com,95948152
+C0419,Lucía Chaves,23,,GT,Heredia,Bronce,Muy alto,568846,5,96414,08-06-2024,Email,0,5.3,Inactivo,525.0,luciachaves@correo.com,00817852
+C0420,Fernando Araya,18,Femenino,Guatemala,San Salvador,Premium,Muy alto,423757,11,275019,2026-01-29,Correo,0,4.4,Inactivo,490.0,fernandoaraya@correo.com,70140052
+C0421,Ana Chaves,,Femenino,Guatemala,San Salvador,Oro,Medio,1003851,13,269593,2024-07-22,whatsapp,1,4.2,Bloqueado,715.0,anachaves@correo.com,92973525
+C0422,Alonso Hernández,38,F,Guatemala,Cartago,PREMIUM,Medio,1122360,10,361954.00,02-16-2024,Correo,1,4.4,Bloqueado,553.0,alonsohernandez@correo.com,60107126
+C0423,Fabiola Araya,26,M,Nicaragua,San Salvador,Oro,Muy alto,559565,1,54425,06-14-2024,,1,3.5,ACTIVO,848.0,fabiolaaraya@correo.com,92225606
+C0424,Valeria Chaves,19,,Nicaragua,Cartago,Bronce,Muy alto,15000000,0,22102,2025-11-06,App,0,5.8,Inactivo,721.0,valeriachaves@correo.com,75615470
+C0425,Kevin Gómez,50,F,PAN,Puntarenas,Bronce,Muy alto,927726,5,error,2025-03-21,llamada,0,7.0,inactivo,332.0,kevingomez@correo.com,13936967
+C0426,Luis Monge,47,F,Nicaragua,Managua,Sin segmento,Bajo,809135,6,103048,07-31-2024,Llamada,3,3.0,Activo,319.0,luismonge@correo.com,54308952
+C0427,José Vargas,0,M,Nicaragua,Liberia,Oro,Bajo,435864,5,90192,30/08/2025,SMS,3,2.9,,481.0,josevargas@correo.com,04500635
+C0428,Valeria Mora,23,,Guatemala,Ciudad de Guatemala,Oro,medio,739496,5,172623,18/04/2025,SMS,0,4.9,activo,438.0,valeriamora@correo.com,89596546
+C0429,Lucía Ramírez,54,M,Panamá,Liberia,Plata,Medio,544616,0,22271,12-17-2025,WhatsApp,0,5.0,,327.0,luciaramirez@correo.com,39889413
+C0430,Sofía Mora,,M,Panamá,Ciudad de Panamá,Premium,Muy alto,"₡1,106,931",5,109698,05-31-2024,whatsapp,1,7.0,ACTIVO,692.0,sofiamora@correo.com,13756589
+C0431,Natalia Salazar,48,m,El Salvador,Alajuela,Plata,Alto,764855,6,186648,2025-02-21,email,1,5.2,Activo,436.0,nataliasalazar@correo.com,31043796
+C0432,Luis Araya,43,F,Guatemala,Liberia,Plata,Muy alto,792642,0,26522,21/03/2026,WhatsApp,0,6.6,Pendiente,418.0,luisaraya@correo.com,52332829
+C0433,Ana Soto,26,Female,Costa Rica,Cartago,Bronce,Bajo,1066389,-2,31877,2024-11-18,Llamada,0,6.7,Activo,284.0,anasoto@correo.com,39847230
+C0434,Sofía Araya,32,F,CostaRica,Heredia,Oro,medio,570635,9,396561,22/05/2025,whatsapp,0,3.8,Inactivo,811.0,sofiaaraya@correo.com,65838727
+C0435,José Soto,32,M,Panamá,Ciudad de Panamá,Plata,Muy alto,667688,9,249704,04-13-2025,,1,5.3,activo,734.0,sin correo,70740392
+C0436,Mónica Chaves,38,M,NI,Heredia,Plata,Muy alto,1172024,11,226705,2024-07-15,WhatsApp,0,3.3,activo,836.0,monicachaves@correo.com,04887899
+C0437,Daniela Rojas,34,M,El Salvador,Alajuela,Premium,Medio,682081,7,145221,30/04/2025,App,0,6.2,Inactivo,501.0,danielarojas@correo.com,12920592
+C0438,María Aguilar,60,M,Guatemala,Puntarenas,Plata,Medio,970873,2,57969,sin fecha,Llamada,0,6.8,Inactivo,643.0,,98321122
+C0439,Fernando Torres,18,M,Guatemala,Ciudad de Panamá,Oro,Bajo,1065077,7,144059,2024-01-01,Email,0,6.5,inactivo,549.0,fernandotorres@correo.com,58566464
+C0440,Pablo Soto,37,Femenino,Nicaragua,Heredia,Plata,Medio,sin dato,15,545476,02/04/2024,email,0,3.4,inactivo,616.0,pablosoto@correo.com,
+C0441,Ana Gómez,32,F,Guatemala,Cartago,Bronce,Bajo,719920,6,105386,03-03-2025,email,2,0.5,Bloqueado,521.0,anagomez@correo.com,76332838
+C0442,Valeria Salazar,18,Male,El Salvador,Antigua,Sin segmento,Bajo,494406,12,401637,17/08/2024,whatsapp,0,7.4,Pendiente,567.0,valeriasalazar@correo.com,06776106
+C0443,Ana Araya,18,M,Costa Rica,Ciudad de Guatemala,Plata,Muy alto,966637,6,9999999,20/01/2025,Llamada,2,4.9,ACTIVO,617.0,anaaraya@correo.com,25734989
+C0444,Lucía Hernández,,F,Nicaragua,Heredia,Premium,5,sin dato,3,-20000,27/11/2025,Correo,0,5.1,ACTIVO,493.0,luciahernandez@correo.com,98416734
+C0445,Valeria Solís,32,f,Panamá,Ciudad de Panamá,Plata,Muy alto,1303945,1,27101,10-23-2024,App,0,5.8,Bloqueado,571.0,valeriasolis@correo.com,30889830
+C0446,Emilio Alvarado,33,Male,El Salvador,Cartago,Bronce,Alto,496279,4,154439,01/01/2025,Correo,1,2.5,,513.0,emilioalvarado@correo.com,46790870
+C0447,José Cordero,999,Masculino,Nicaragua,,Oro,Alto,419620,1,37502,2025-01-18,WhatsApp,0,4.0,ACTIVO,320.0,josecordero@correo.com,67256222
+C0448,Diego Jiménez,49,M,Panamá,Ciudad de Guatemala,Oro,Medio,951198,5,120943,21/10/2024,llamada,0,5.0,,790.0,diegojimenez@correo.com,62211732
+C0449,José Cordero,36,M,Panamá,,premium,1,850485,1,35673,2025-09-05,,0,3.5,,470.0,josecordero@correo.com,47841715
+C0450,Valeria Ramírez,27,M,Nicaragua,San José,Premium,ALTO,558611,18,623977,06-28-2024,SMS,2,9.3,ACTIVO,256.0,valeriaramirez@correo.com,51521746
+C0451,Pablo Hernández,18,M,El Salvador,Puntarenas,Oro,Muy alto,459888,8,28769,2025-02-09,Correo,1,7.7,ACTIVO,508.0,pablohernandez@correo.com,99990010
+C0452,Mateo Hernández,20,M,Panamá,Ciudad de Panamá,Plata,Muy alto,1148358,5,108260,14/01/2025,Email,1,2.1,Pendiente,817.0,mateohernandez@correo.com,02217978
+C0453,Andrés Pérez,18,M,Costa Rica,Puntarenas,Oro,Bajo,2522332,6,78934,2026-01-13,,0,4.5,Pendiente,759.0,andresperez@correo.com,123
+C0454,Jimena Vargas,19,,Nicaragua,Managua,Oro,Bajo,1223319,10,0,09-03-2024,whatsapp,0,7.8,Inactivo,594.0,jimenavargas@correo.com,55136090
+C0455,Esteban Pérez,33,M,panamá,Cartago,Premium,Muy alto,515888,6,103764,sin fecha,,1,5.7,Pendiente,755.0,estebanperez@correo.com,47315663
+C0456,Fernando Chaves,35,M,ESA,Ciudad de Panamá,Premium,Medio,899583,150,3041460,03-11-2024,WhatsApp,0,7.2,Bloqueado,668.0,fernandochaves@correo.com,35846405
+C0457,Sebastián Araya,,F,Guatemala,Cartago,Oro,Muy alto,sin dato,7,254486,11-06-2025,llamada,80,5.5,Pendiente,572.0,sebastianaraya@correo.com,87455135
+C0458,Esteban Salazar,40,F,Nicaragua,Ciudad de Panamá,Oro,Bajo,1134368,10,83046,2026-01-19,email,0,120,Pendiente,307.0,estebansalazar@correo.com,91538602
+C0459,Fernando Ramírez,41,F,Guatemala,Cartago,Oro,Medio,1359588,0,29702,2025-10-20,,0,6.5,inactivo,631.0,fernandoramirez@correo.com,87098726
+C0460,Valeria Gómez,36,F,Guatemala,Liberia,Plata,5,722524,9,275105,sin fecha,whatsapp,2,6.5,Activo,498.0,valeriagomez@correo.com,36890057
+C0461,Luis Vargas,27,F,C.R.,Cartago,Bronce,Medio,631325,8,9436,sin fecha,SMS,0,4.5,inactivo,696.0,luisvargas@correo.com,19281707
+C0462,Luis Soto,43,F,guate,Alajuela,Oro,Alto,1066305,0,15872,2025-04-30,App,0,3.9,ACTIVO,625.0,luissoto@correo.com,sin telefono
+C0463,Jimena Chaves,24,F,Costa Rica,Alajuela,Sin segmento,Muy alto,2101280,5,150750,07/08/2024,,-1,0.5,Pendiente,405.0,jimenachaves@correo.com,81919074
+C0464,María Cordero,32,F,El Salvador,Cartago,Oro,Alto,903042,9,254628,07/10/2024,WhatsApp,50,6.1,inactivo,370.0,mariacordero@correo.com,20550330
+C0465,Diego Torres,32,Female,El Salvador,Alajuela,Bronce,Bajo,590664,0,0,06-28-2025,SMS,1,5.0,Bloqueado,575.0,diegotorres@correo.com,
+C0466,Jorge Vargas,48,M,Costa Rica,Alajuela,Oro,Alto,"1,451,171",2,49543,08-11-2025,Correo,0,7.0,Pendiente,493.0,jorgevargas@correo.com,10824028
+C0467,Alonso Soto,25,m,C.R.,Heredia,Bronce,Alto,1524201,3,55456,31/02/2025,Email,0,5.5,Activo,820.0,alonsosoto@correo.com,
+C0468,Luis Navarro,27,M,Cost Rica,Cartago,Plata,Medio,ND,5,118189,2024-11-28,Email,2,4.5,ACTIVO,405.0,,22763460
+C0469,Diego Rojas,21,m,Panamá,Heredia,Premium,2,"875,075",13,267253.00,03-04-2025,App,3,3.6,,822.0,diegorojas@correo.com,19768784
+C0470,Daniela Castro,25,M,Costa Rica,Alajuela,Premium,Medio,556323,2,41227,2024-04-23,,2,0.5,,693.0,danielacastro@correo.com,92064411
+C0471,Adriana Jiménez,29,M,Nicaragua,Cartago,Plata,Alto,25000000,7,316151,2024-07-05,llamada,3,5.3,Pendiente,417.0,adrianajimenez@correo.com,sin telefono
+C0472,Carlos Pérez,18,F,Guatemala ,Ciudad de Panamá,premium,Muy bajo,829030,17,230758,03-10-2026,whatsapp,1,3.5,ACTIVO,706.0,carlosperez@correo.com,90841947
+C0473,Alonso Rojas,30,Male,Panamá,,Premium,Bajo,"767,487",6,173397,04-23-2024,SMS,2,4.5,Activo,607.0,alonsorojas@correo.com,64771837
+C0474,Daniela Cordero,28,M,Panamá,San Salvador,Premium,Bajo,1019393,7,212654,08/02/2024,Llamada,2,4.5,Inactivo,406.0,,51691395
+C0475,Lucía Mora,31,m,Nicaragua ,San José,premium,Medio,,0,15988,31/02/2025,App,1,4.0,inactivo,738.0,luciamora@correo.com,21516758
+C0476,Mónica Hernández,36,F,Panamá,Alajuela,Oro,Muy alto,813871,17,348010,2024-04-23,WhatsApp,0,6.2,,734.0,monicahernandez@correo.com,97815542
+C0477,José Hernández,33,M,Panamá,Antigua,PREMIUM,Bajo,1356888,7,0,2026-01-10,Llamada,0,5.6,ACTIVO,260.0,josehernandez@correo.com,14857260
+C0478,Camila Solís,29,M,El Salvador,Liberia,Oro,3,1024070,3,83406,14/02/2025,SMS,0,3.6,Pendiente,567.0,camilasolis@correo.com,90604886
+C0479,Luis Aguilar,37,M,Costa Rica,Managua,Premium,Alto,969802,0,16521.00,05-27-2025,Llamada,0,1.7,,512.0,luisaguilar@correo.com,03842273
+C0480,Pablo Jiménez,41,M,Nicaragua,Ciudad de Guatemala,Bronce,Bajo,795635,15,458338,2024-08-26,App,4,5.9,Pendiente,255.0,pablojimenez@correo.com,20269801
+C0481,Sebastián Solís,31,F,Costa Rica,San José,Plata,Bajo,2195835,17,549525,01-20-2025,Llamada,0,8.5,ACTIVO,417.0,sebastiansolis@correo.com,80839065
+C0482,Emilio Alvarado,40,M,El Salvador,Ciudad de Guatemala,Bronce,5,,2,86583,23/10/2025,WhatsApp,0,6.2,inactivo,464.0,emilioalvarado@correo.com,99507088
+C0483,Pablo Salazar,,F,Costa Rica,San Salvador,Plata,Medio,480127,7,150264,2024-06-26,WhatsApp,0,45,Bloqueado,397.0,pablosalazar@correo.com,55501935
+C0484,Esteban Solís,18,Femenino,Guatemala,Cartago,Plata,Medio,,3,25873,18/03/2026,email,0,4.1,Bloqueado,718.0,estebansolis@correo.com,99920123
+C0485,María Salazar,18,M,Costa Rica,Managua,Plata,Alto,1347921,9,202779,11/05/2024,Correo,0,3.9,activo,555.0,mariasalazar@correo.com,sin telefono
+C0486,Lucía Soto,32,M,Guatemala,Puntarenas,Plata,,568078,11,380780,09/05/2024,WhatsApp,0,3.6,inactivo,551.0,luciasoto@correo.com,58192048
+C0487,Mateo Solís,37,F,Guatemala,Ciudad de Panamá,Bronce,3,1396488,5,87385,2025-06-27,whatsapp,1,7.0,activo,512.0,mateosolis@correo.com,20846729
+C0488,Alonso Jiménez,45,Femenino,El Salvador,Ciudad de Panamá,Bronce,Medio,485516,2,71896,17/02/2026,email,1,4.6,inactivo,726.0,alonsojimenez@correo.com,49929009
+C0489,José Navarro,0,F,Costa Rica,Puntarenas,premium,Bajo,1309211,9,220632,13/06/2024,Email,0,8.4,inactivo,761.0,josenavarro@correo.com,08277056
+C0490,Jimena Mora,21,FEM,El Salvador,Puntarenas,Premium,Muy alto,762129,8,384275,2024-04-27,llamada,2,8.7,inactivo,829.0,jimenamora@correo.com,16544137
+C0491,Laura Chaves,,F,Guatemala,Managua,Premium,Muy alto,692815,8,244814,11-02-2024,email,3,2.7,activo,435.0,laurachaves@correo.com,72345653
+C0492,Daniela Monge,34,F,El Salvador,Cartago,Bronce,Muy alto,503160,7,174124,12-11-2024,email,0,4.8,Activo,484.0,danielamonge@correo.com,99009378
+C0493,Andrés Salazar,43,Masculino,Nicaragua,Ciudad de Panamá,Premium,Bajo,899348,2,47084,2025-02-01,Llamada,3,7.0,Inactivo,471.0,andressalazar@correo.com,85899002
+C0494,Ana Pérez,32,M,El Salvador,Liberia,Premium,Muy bajo,640925,9,239965,23/01/2024,Correo,2,6.8,inactivo,331.0,anaperez@correo.com,79419087
+C0495,Lucía Jiménez,23,F,Nicaragua,Cartago,Plata,Muy alto,1706576,7,192776,28/07/2025,,2,5.6,Pendiente,,luciajimenez@correo.com,01629073
+C0496,Adriana Pérez,36,No indica,Guatemala,Ciudad de Panamá,Plata,Medio,sin dato,6,125658,2024-01-31,email,1,6.3,,833.0,adrianaperez@correo.com,54901459
+C0497,Ana Solís,30,M,GT,Managua,Oro,Medio,1877019,6,238346,06/01/2024,SMS,4,6.3,,318.0,anasolis@correo.com,01649281
+C0498,Adriana Mora,37,,Panamá,Cartago,Bronce,Muy alto,613161,9,239932,01-31-2024,Email,0,0.9,inactivo,830.0,adrianamora@correo.com,74116806
+C0499,Esteban Vargas,,M,Costa Rica,San José,Plata,Muy alto,660829,12,328698,2025-05-11,llamada,0,6.3,ACTIVO,808.0,estebanvargas@correo.com,53690912
+C0500,Diego Rojas,44,M,Costa Rica,Antigua,premium,Alto,987444,17,332057,11/01/2025,email,5,4.8,inactivo,413.0,diegorojas@correo.com,21597738
+C0501,Sofía Jiménez,150,F,El Salvador,Ciudad de Panamá,premium,Muy alto,990255,7,119397,2024-05-11,Correo,0,4.6,Bloqueado,592.0,sofiajimenez@correo.com,56999299
+C0502,Valeria Aguilar,34,F,El Salvador,Ciudad de Guatemala,Premium,Bajo,561712,0,39935,06-24-2025,App,2,2.4,Inactivo,0,valeriaaguilar@correo.com,07629143
+C0503,Valeria Torres,39,F,Guatemala,Ciudad de Panamá,Premium,Muy alto,461521,10,392857,2025-06-15,Correo,2,5.0,Activo,846.0,valeriatorres@correo.com,19489629
+C0504,Natalia Chaves,150,M,Guatemala,San José,Premium,Muy alto,2075159,150,3997947,2024-11-21,,1,3.1,Pendiente,760.0,,73217503
+C0505,Luis Soto,26,F,Costa Rica,Ciudad de Panamá,Plata,Medio,326506,0,21493,2024-05-11,Llamada,0,-3,ACTIVO,498.0,luissoto@correo.com,17085173
+C0506,María Ramírez,29,M,Costa Rica,Puntarenas,Bronce,Bajo,366397,10,199485,02-18-2024,Correo,0,45,Pendiente,785.0,mariaramirez@correo.com,54184039
+C0507,José Castro,34,F,Guatemala,,Premium,Alto,25000000,-2,17444,26/01/2025,WhatsApp,1,7.4,inactivo,392.0,josecastro@correo.com,03974408
+C0508,Mateo Mora,18,F,Costa Rica,San José,Bronce,Alto,541016,7,155381,07-09-2024,App,1,5.4,ACTIVO,523.0,mateomora@correo.com,20539707
+C0509,Mónica Ramírez,28,F,El Salvador,San Salvador,Plata,Bajo,1517800,15,438902,2025-02-21,llamada,1,1.1,Activo,468.0,monicaramirez@correo.com,61840257
+C0510,Valeria Solís,30,F,Guatemala ,Cartago,Plata,Bajo,1033738,7,221640,2024-06-17,Llamada,-1,4.9,inactivo,615.0,valeriasolis@correo.com,75979531
+C0511,Luis Mora,23,M,Nicaragua,Ciudad de Guatemala,Oro,Medio,517578,3,93049,10-07-2025,llamada,1,4.1,,568.0,luismora@correo.com,45662295
+C0512,Luis Aguilar,30,M,Costa Rica,Heredia,Bronce,Medio,779633,3,63614,10/03/2024,,1,5.4,ACTIVO,735.0,,90522441
+C0513,Andrés Navarro,30,M,PAN,,Oro,Bajo,1047555,7,87361,05/01/2026,WhatsApp,0,4.4,Pendiente,391.0,andresnavarro@correo.com,74876805
+C0514,Diego Salazar,46,F,Costa Rica,Alajuela,PREMIUM,Medio,331975,0,33686,07-09-2024,Llamada,0,12.1,Bloqueado,811.0,diegosalazar@correo.com,99242773
+C0515,Pablo Araya,45,F,Guatemala,Liberia,Premium,Medio,862654,2,26744.00,05/12/2024,Email,0,3.2,Activo,788.0,pabloaraya@correo.com,56999138
+C0516,Ana Solís,42,F,Nicaragua,,Premium,Medio,1511789,0,3702.00,2024-01-04,llamada,0,7.7,activo,619.0,anasolis@correo.com,42410740
+C0517,Ana Cordero,18,F,Nicaragua,Antigua,Plata,Medio,1701491,9,13216,13/03/2024,Correo,0,7.8,inactivo,375.0,anacordero@correo.com,99798491
+C0518,Luis Monge,,Female,Panamá,San Salvador,Premium,Medio,587969,0,38116,06-30-2025,Correo,2,6.8,activo,587.0,luismonge@correo.com,01276223
+C0519,Mateo Torres,45,F,Nicaragua,,Plata,Muy alto,"₡1,416,748",17,500764,09/11/2024,,1,8.0,,-100,mateotorres@correo.com,79496383
+C0520,Sofía Jiménez,29,F,Guatemala,Antigua,PREMIUM,Alto,1496407,9,431030,02/01/2025,email,6,2.5,ACTIVO,,sofiajimenez@correo.com,58682405
+C0521,Camila Aguilar,39,M,Costa Rica,Managua,Premium,Muy alto,,9,268751,2024-03-03,,1,4.3,,692.0,camilaaguilar@correo.com,41349096
+C0522,Emilio Salazar,52,M,Guatemala,Puntarenas,PREMIUM,Alto,872672,0,26310,01-15-2024,WhatsApp,1,1.3,Bloqueado,656.0,emiliosalazar@correo.com,80260294
+C0523,María Chaves,47,M,Panamá,San José,Premium,medio,777839,4,24949.00,25/01/2026,SMS,1,8.6,Bloqueado,551.0,mariachaves@correo.com,95868419
+C0524,José Cordero,50,M,El Salvador,Heredia,Plata,3,524936,9,253292,2026-03-28,llamada,0,5.3,Pendiente,479.0,josecordero@correo.com,46989062
+C0525,Diego Salazar,,F,Guatemala,Cartago,Sin segmento,Alto,1013156,12,461258.00,06/03/2025,llamada,0,4.5,Activo,777.0,diegosalazar@correo.com,07378159
+C0526,Ricardo Monge,29,MASC,NI,Ciudad de Panamá,Plata,Medio,772818,13,542987,12-07-2024,,3,3.3,Activo,590.0,ricardomonge@correo.com,61820706
+C0527,Esteban Vargas,49,F,El Salvador,Antigua,Premium,Muy alto,1302037,9,113931,2024-08-18,WhatsApp,,4.6,ACTIVO,694.0,estebanvargas@correo.com,31555057
+C0528,Sofía Castro,18,f,El Salvador,Liberia,Plata,Bajo,"₡686,516",6,311674,22/07/2024,Llamada,0,2.5,Bloqueado,741.0,sofiacastro@correo.com,09779780
+C0529,Natalia Torres,39,M,Panamá,Ciudad de Guatemala,Premium,Muy alto,sin dato,1,30393,2025-11-08,Llamada,0,6.2,Inactivo,674.0,nataliatorres@correo.com,27318683
+C0530,Lucía Araya,21,No indica,Guatemala,Liberia,Oro,Alto,sin dato,13,233530,2025-02-02,Llamada,0,8.4,Inactivo,420.0,luciaaraya@correo.com,sin telefono
+C0531,Laura Vargas,21,M,Costa Rica,Liberia,Bronce,Alto,1152556,150,1393626,11-11-2025,llamada,5,45,,505.0,lauravargas@correo.com,09962183
+C0532,Carlos Alvarado,33,F,CR,,Bronce,Medio,331220,0,53552,2025-07-21,SMS,0,-3,ACTIVO,769.0,carlosalvarado@correo.com,44614409
+C0533,María Navarro,29,F,Guatemala,Antigua,Plata,Medio,767152,12,113755,2026-02-15,SMS,0,1.3,activo,408.0,marianavarro@correo.com,03850255
+C0534,Adriana Torres,42,F,Guatemala,Ciudad de Panamá,Plata,Bajo,628523,6,122718,2024-04-05,email,2,3.2,Inactivo,604.0,sin correo,40954377
+C0535,Laura Jiménez,47,F,Costa Rica,Ciudad de Panamá,Premium,Alto,566009,9,392422,02-16-2024,SMS,1,5.1,Activo,448.0,sin correo,26933154
+C0536,Paula Mora,41,F,Panamá,,Plata,medio,546186,9,247256,2024-05-25,Llamada,2,5.3,Activo,759.0,paulamora@correo.com,24005392
+C0537,Fernando Solís,35,M,Costa Rica,Alajuela,Plata,Bajo,436814,8,237444,09/12/2024,App,0,5.8,Pendiente,490.0,fernandosolis@correo.com,76024986
+C0538,Pablo Mora,31,F,Nicaragua,Ciudad de Guatemala,Oro,3,"1,259,425",1,35123,08/03/2024,,3,4.6,ACTIVO,398.0,,64147533
+C0539,José Torres,48,M,Nicaragua,Puntarenas,Premium,,1696543,1,31103,2025-08-29,Correo,0,9.2,inactivo,768.0,josetorres@correo.com,38354346
+C0540,Diego Monge,54,F,Panamá,Managua,Oro,Bajo,"₡859,988",9,229603,2026-03-04,SMS,0,5.9,activo,825.0,correo@@mal,64931214
+C0541,Kevin Navarro,25,No indica,El Salvador,San Salvador,Premium,Medio,974701,10,176588,09-25-2024,Correo,0,3.5,Bloqueado,498.0,kevinnavarro@correo.com,97196706
+C0542,Valeria Aguilar,35,Female,Guatemala,Managua,Plata,Alto,1081462,10,339665,03/12/2025,Email,0,3.7,Inactivo,728.0,valeriaaguilar@correo.com,16793014
+C0543,Paula Rojas,49,F,Costa Rica,San José,Bronce,4,,6,,2024-05-27,,2,4.0,Inactivo,811.0,paularojas@correo.com,20353160
+C0544,Mateo Monge,55,Femenino,Nicaragua,Ciudad de Guatemala,Bronce,Alto,686907,14,264593,04-15-2025,SMS,0,3.4,Inactivo,714.0,mateomonge@correo.com,78576463
+C0545,Luis Salazar,23,Femenino,El Salvador,Heredia,premium,Bajo,1011216,20,,18/12/2024,App,0,0.5,ACTIVO,437.0,luissalazar@correo.com,54717989
+C0546,Jorge Solís,22,M,Costa Rica,Managua,Oro,Muy alto,594682,4,121193,2025-02-17,email,0,7.5,Pendiente,774.0,jorgesolis@correo.com,14413068
+C0547,Camila Mora,37,F,CostaRica,Antigua,Bronce,Medio,446154,2,70136,2024-05-31,llamada,-1,2.6,Inactivo,770.0,camilamora@correo.com,
+C0548,Diego Chaves,38,,Costa Rica,Puntarenas,Plata,,870830,6,219702,2025-07-23,Llamada,0,7.0,Inactivo,574.0,,19453419
+C0549,Alonso Ramírez,30,MASC,Guatemala,Heredia,Plata,Alto,1256044,14,284975,2025-11-14,llamada,2,3.5,ACTIVO,517.0,alonsoramirez@correo.com,69905585
+C0550,Gabriela Monge,26,M,El Salvador,San José,Bronce,Alto,1596330,16,359825,08/04/2025,WhatsApp,3,2.7,activo,516.0,gabrielamonge@correo.com,81498025
+C0551,Valeria Salazar,31,M,Nicaragua,Liberia,Plata,Bajo,913377,1,27069,04-10-2025,,0,7.2,inactivo,774.0,valeriasalazar@correo.com,55749062
+C0552,Ana Gómez,32,M,Guatemala,Heredia,Oro,Medio,1260100,12,303818,21/03/2025,Llamada,3,6.5,Inactivo,345.0,anagomez@correo.com,92204167
+C0553,Fernando Hernández,18,F,Costa Rica,Heredia,Bronce,Medio,847565,150,4308718,09-02-2024,email,0,5.1,activo,301.0,sin correo,29561622
+C0554,Mónica Salazar,52,F,Costa Rica,Managua,Oro,Alto,587550,11,393290,23/10/2024,whatsapp,2,3.5,Activo,321.0,monicasalazar@correo.com,39117766
+C0555,Fernando Gómez,24,M,Costa Rica,Heredia,Bronce,Bajo,1562261,1,12063,01-30-2025,whatsapp,1,6.7,inactivo,341.0,fernandogomez@correo.com,59212684
+C0556,Diego Salazar,42,M,CostaRica,Cartago,Plata,Medio,2238874,10,114807,2024-08-01,Email,2,3.1,Inactivo,545.0,diegosalazar@correo.com,76591538
+C0557,Adriana Ramírez,32,F,Nicaragua,Heredia,Oro,Medio,203624,6,208468,17/11/2024,email,5,3.5,Pendiente,426.0,adrianaramirez@correo.com,94510462
+C0558,Gabriela Cordero,27,M,Costa Rica,Heredia,Plata,Medio,1577362,13,266891,22/04/2024,Correo,2,45,activo,722.0,gabrielacordero@correo.com,80457972
+C0559,Mónica Mora,26,F,Costa Rica,Ciudad de Panamá,Plata,Medio,1045564,8,201550,08-12-2024,App,2,2.5,Bloqueado,370.0,monicamora@correo.com,20084842
+C0560,Valeria Jiménez,,F,el salvador,Ciudad de Guatemala,Premium,1,979541,10,220319,10-13-2024,Email,0,4.5,,623.0,valeriajimenez@correo.com,93500115
+C0561,Fernando Pérez,28,F,Cost Rica,,Bronce,Muy bajo,702167,0,15979,15/04/2024,llamada,0,1.1,activo,553.0,fernandoperez@correo.com,01685647
+C0562,Luis Castro,49,F,Costa Rica,Managua,Bronce,Bajo,201667,6,208977,25/03/2025,Email,1,6.6,ACTIVO,498.0,,05835345
+C0563,Jorge Aguilar,27,F,Guatemala,Managua,Premium,Medio,1069490,9,204445,2024-08-01,WhatsApp,-1,7.0,Pendiente,791.0,jorgeaguilar@correo.com,66983451
+C0564,Lucía Soto,42,F,Guatemala ,Cartago,Premium,medio,1762004,4,156345,2026-02-03,WhatsApp,2,0.5,Pendiente,666.0,luciasoto@correo.com,63090071
+C0565,Mónica Ramírez,40,M,Costa Rica,San Salvador,Bronce,Muy alto,956796,11,280833,09-13-2025,Llamada,0,2.7,Pendiente,-100,monicaramirez@correo.com,42653793
+C0566,Jimena Castro,18,M,Costa Rica,Puntarenas,Premium,Bajo,ND,3,69070,31/02/2025,SMS,0,4.2,ACTIVO,375.0,jimenacastro@correo.com,59783354
+C0567,Mateo Castro,29,No indica,Costa Rica,Antigua,Premium,Muy alto,1979815,6,323931,04/11/2025,WhatsApp,0,8.5,Inactivo,573.0,mateocastro@correo.com,
+C0568,Andrés Solís,36,F,Panamá,Heredia,Plata,Medio,1475685,3,26367,2024-04-01,App,0,2.7,Inactivo,603.0,andressolis@correo.com,10480283
+C0569,Lucía Araya,45,F,El Salvador,San José,Premium,Medio,1195772,3,78762,2025-06-16,SMS,5,3.7,Bloqueado,525.0,luciaaraya@correo.com,70531105
+C0570,Ana Alvarado,18,F,Panamá,Alajuela,Plata,Medio,819596,12,479848,04-10-2024,Llamada,0,7.1,,576.0,anaalvarado@correo.com,36885016
+C0571,Alonso Solís,37,No indica,El Salvador,Ciudad de Panamá,Premium,Bajo,717584,10,93439,04/09/2024,Correo,0,4.1,Activo,538.0,alonsosolis@correo.com,97640838
+C0572,Lucía Rojas,57,F,Nicaragua ,Puntarenas,Plata,Alto,1311880,2,,2025/99/99,Email,0,8.6,Inactivo,564.0,luciarojas@correo.com,75703029
+C0573,Pablo Soto,32,F,Costa Rica,Heredia,Oro,Medio,774580,8,203026,2024-01-21,Email,2,4.6,activo,504.0,pablosoto@correo.com,75374057
+C0574,Andrés Solís,62,M,Nicaragua,,Oro,Alto,sin dato,3,143350,2025-06-10,App,2,1.3,ACTIVO,587.0,andressolis@correo.com,58626736
+C0575,Diego Soto,51,,nicargua,Cartago,Plata,Alto,256587,9,15000000,02/03/2024,llamada,0,4.4,Pendiente,528.0,,34293907
+C0576,Esteban Monge,27,Femenino,Costa Rica,San José,Oro,Muy bajo,1313899,14,122842,2024-08-20,whatsapp,0,0.5,Activo,653.0,estebanmonge@correo.com,79531112
+C0577,Camila Gómez,27,F,El Salvador,San Salvador,Oro,Muy bajo,878613,9,163402,2025-03-17,Llamada,2,6.4,Inactivo,445.0,camilagomez@correo.com,45553706
+C0578,Jorge Navarro,38,M,Guatemala,San Salvador,Premium,Medio,1111648,300,3303204,2024-06-12,whatsapp,3,4.4,Pendiente,612.0,correo@@mal,99516704
+C0579,Alonso Soto,50,F,Costa Rica,Cartago,Bronce,Alto,701069,4,91998,03-15-2026,SMS,0,5.4,Inactivo,473.0,alonsosoto@correo.com,91154904
+C0580,Laura Jiménez,28,F,Costa Rica,San Salvador,Premium,Bajo,sin dato,4,36855.00,2024-08-06,Email,2,7.1,ACTIVO,696.0,laurajimenez@correo.com,92219836
+C0581,Daniela Jiménez,28,,panamá,Ciudad de Guatemala,Bronce,Medio,528754,3,104360,27/07/2025,,0,7.0,Bloqueado,633.0,danielajimenez@correo.com,58676030
+C0582,Camila Cordero,28,Female,El Salvador,Heredia,Bronce,Alto,ND,2,48728,2024-06-01,,1,6.8,Inactivo,1200,camilacordero@correo.com,16816360
+C0583,Natalia Salazar,53,M,El Salvador,Liberia,Bronce,1,576628,7,240757,2025-01-08,whatsapp,1,3.6,inactivo,358.0,nataliasalazar@correo.com,11919445
+C0584,Emilio Salazar,41,Male,el salvador,Ciudad de Guatemala,Bronce,Muy alto,621400,11,109832,16/01/2025,email,0,7.3,inactivo,565.0,emiliosalazar@correo.com,02234614
+C0585,José Salazar,999,F,Nicaragua,Alajuela,Bronce,Alto,855877,11,359210,01/02/2025,SMS,5,3.4,inactivo,,josesalazar@correo.com,30048379
+C0586,Pablo Hernández,32,F,Guatemala,,Plata,Bajo,ND,6,139476,2025-04-07,Correo,0,1.6,activo,262.0,pablohernandez@correo.com,96075789
+C0587,Jimena Monge,24,M,Costa Rica,Heredia,Sin segmento,Muy alto,554552,8,406837,10-09-2025,,2,2.8,activo,307.0,jimenamonge@correo.com,29755726
+C0588,Emilio Cordero,39,F,Guatemala,,Plata,Bajo,0,18,545108,2025-12-08,App,0,7.7,ACTIVO,618.0,emiliocordero@correo.com,00490372
+C0589,Laura Aguilar,23,F,Guatemala,Managua,premium,Medio,931632,7,278204,2026-01-27,Correo,3,7.2,inactivo,839.0,lauraaguilar@correo.com,76212360
+C0590,Diego Monge,24,Female,El Salvador,Cartago,Bronce,Bajo,992269,5,85975,03-18-2026,Email,0,3.0,Inactivo,587.0,diegomonge@correo.com,21773516
+C0591,Fabiola Jiménez,37,,Costa Rica,Heredia,Oro,Medio,551679,14,513105,2024-08-23,App,3,6.4,Pendiente,438.0,fabiolajimenez@correo.com,81444248
+C0592,Sebastián Rojas,39,M,Costa Rica,Liberia,Bronce,medio,876105,11,143599,07-16-2024,Email,1,3.0,Activo,442.0,sebastianrojas@correo.com,51908261
+C0593,Natalia Jiménez,29,F,El Salvador,San José,Premium,Muy alto,2328558,11,213720,2024-04-05,Correo,1,6.1,Bloqueado,260.0,nataliajimenez@correo.com,42424066
+C0594,Camila Cordero,41,m,Guatemala,Liberia,Sin segmento,Alto,1218688,16,323349,05-16-2024,email,0,8.1,inactivo,750.0,camilacordero@correo.com,88959470
+C0595,Andrés Aguilar,38,F,panamá,Alajuela,PREMIUM,Muy alto,623880,14,243489,07-05-2025,Correo,0,2.6,activo,670.0,,sin telefono
+C0596,Kevin Navarro,43,M,PAN,Alajuela,Bronce,Alto,1012222,10,479561,11/10/2024,llamada,0,0.9,Pendiente,764.0,kevinnavarro@correo.com,75402428
+C0597,Fabiola Aguilar,35,M,Panama,Ciudad de Panamá,Plata,Alto,892658,5,76677,2025-07-26,,0,2.6,Bloqueado,682.0,fabiolaaguilar@correo.com,27896951
+C0598,Ana Torres,25,M,Nicaragua,Ciudad de Panamá,Premium,Muy alto,1081061,3,69982,2026-01-05,llamada,1,7.3,,383.0,anatorres@correo.com,70731744
+C0599,Fabiola Cordero,39,M,Nicaragua,Puntarenas,Oro,Alto,1117778,12,271343,06/02/2026,whatsapp,3,3.7,Inactivo,720.0,fabiolacordero@correo.com,87404207
+C0600,Andrés Alvarado,26,F,Nicaragua,San Salvador,Bronce,Bajo,25000000,9,142330,09-07-2024,Email,2,4.7,Activo,398.0,andresalvarado@correo.com,123
+C0601,Pablo Hernández,40,F,Nicaragua ,Puntarenas,Oro,Muy alto,1151877,1,355,02-22-2025,,0,6.3,ACTIVO,497.0,pablohernandez@correo.com,68290525
+C0602,Ana Pérez,31,M,guate,Managua,Oro,Alto,609277,6,172210,03-31-2024,Llamada,0,6.1,Activo,396.0,anaperez@correo.com,47852474
+C0603,Valeria Aguilar,999,M,Guatemala,Cartago,Oro,Muy alto,345533,5,151309,2024-07-11,llamada,1,5.6,ACTIVO,832.0,valeriaaguilar@correo.com,15398852
+C0604,Lucía Alvarado,35,M,Costa Rica,Ciudad de Panamá,Bronce,Alto,1079655,6,159080,2026-01-03,SMS,7,7.3,Activo,405.0,luciaalvarado@correo.com,92421959
+C0605,Jimena Monge,33,M,Nicaragua,Liberia,Premium,Alto,"738,307",5,-20000,11-18-2025,App,0,5.5,Inactivo,466.0,jimenamonge@correo.com,55766345
+C0606,Kevin Araya,33,Femenino,El Salvador,Managua,premium,Bajo,,4,113879,2025-07-02,App,1,6.1,,630.0,kevinaraya@correo.com,62699620
+C0607,Gabriela Castro,33,M,Panamá,Heredia,Premium,Muy bajo,705660,7,166710,16/09/2025,Llamada,0,6.2,Pendiente,449.0,gabrielacastro@correo.com,02860604
+C0608,Camila Rojas,24,M,Nicaragua,Antigua,Bronce,Bajo,934105,10,330769,2024-05-17,Llamada,0,6.0,Activo,687.0,camilarojas@correo.com,99313606
+C0609,Fabiola Castro,55,M,Costa Rica,Ciudad de Guatemala,Premium,Bajo,ND,7,157272,22/02/2026,SMS,1,3.2,ACTIVO,435.0,fabiolacastro@correo.com,47905347
+C0610,Fabiola Castro,45,No indica,El Salvador,Cartago,Bronce,Alto,694848,6,73250,03-03-2026,email,1,6.9,activo,565.0,fabiolacastro@correo.com,
+C0611,Sebastián Cordero,,f,Nicaragua,Ciudad de Panamá,Oro,Muy alto,737787,8,156466,2025-10-05,Email,1,6.5,,524.0,sebastiancordero@correo.com,14862675
+C0612,Jorge Ramírez,29,F,Costa Rica,San Salvador,Premium,Muy alto,"408,252",11,186937,2024-07-15,Correo,1,4.8,Activo,343.0,jorgeramirez@correo.com,84834927
+C0613,Gabriela Pérez,35,Masculino,El Salvador,Liberia,Oro,Bajo,1254396,2,64295,20/12/2024,email,80,3.4,activo,785.0,gabrielaperez@correo.com,74627205
+C0614,Emilio Monge,48,F,Panamá,,Oro,Medio,2661289,10,345632,2025-07-16,WhatsApp,0,2.4,,815.0,emiliomonge@correo.com,84460789
+C0615,Jimena Aguilar,52,M,Costa Rica,Alajuela,Plata,Alto,399695,12,526299,02-16-2026,,1,7.6,activo,536.0,jimenaaguilar@correo.com,65907055
+C0616,Natalia Jiménez,27,M,Nicaragua,Alajuela,Plata,Bajo,1198973,4,159933,03/08/2024,App,0,3.7,,316.0,nataliajimenez@correo.com,77349431
+C0617,Sofía Gómez,27,M,PAN,Liberia,Premium,Alto,793522,11,185756,11-21-2025,email,4,6.3,Pendiente,431.0,sofiagomez@correo.com,16602841
+C0618,Diego Jiménez,33,Female,Costa Rica,Ciudad de Guatemala,Premium,Bajo,1094765,0,20442,02-12-2024,llamada,0,7.4,Activo,491.0,,10175900
+C0619,Paula Navarro,18,M,Nicaragua,Heredia,Bronce,Medio,1116270,4,56356,20/03/2026,SMS,0,5.8,ACTIVO,672.0,sin correo,72288341
+C0620,Jimena Vargas,34,,El Salvador,Liberia,Plata,Medio,514020,1,44180,07-19-2024,whatsapp,5,1.4,Pendiente,799.0,jimenavargas@correo.com,56582608
+C0621,Sebastián Cordero,35,F,Cost Rica,Ciudad de Panamá,Oro,Medio,1115462,16,476686,03-19-2026,whatsapp,2,6.5,activo,621.0,sebastiancordero@correo.com,57446532
+C0622,Andrés Castro,38,F,panamá,Ciudad de Guatemala,Plata,4,1714889,9,315896,08/03/2026,llamada,3,4.1,Pendiente,349.0,andrescastro@correo.com,83335401
+C0623,Ricardo Jiménez,150,F,Nicaragua,Ciudad de Guatemala,Bronce,Muy alto,580021,-2,14480,06/04/2024,email,0,2.2,activo,587.0,ricardojimenez@correo.com,69303264
+C0624,Emilio Cordero,28,F,Panamá,San Salvador,Oro,Bajo,1462147,8,329525,05-06-2024,SMS,2,4.8,inactivo,488.0,emiliocordero@correo.com,70742153
+C0625,Pablo Soto,36,F,Guatemala ,Managua,Premium,Alto,858506,3,113394,07-15-2024,Email,-1,4.7,activo,781.0,pablosoto@correo.com,sin telefono
+C0626,Luis Castro,42,M,Panamá,San Salvador,Bronce,Alto,789912,13,358729,09/08/2025,Email,0,6.6,,448.0,luiscastro@correo.com,38953376
+C0627,Adriana Solís,18,M,Nicaragua,Liberia,Plata,Muy alto,635593,10,8574,27/09/2024,App,0,6.2,Pendiente,765.0,adrianasolis@correo.com,73181560
+C0628,Mateo Mora,18,M,El Salvador,Liberia,Bronce,3,1935165,10,192762,01/08/2025,email,0,3.1,Activo,453.0,mateomora@correo.com,39098468
+C0629,Jimena Cordero,22,M,NI,Antigua,,Muy alto,786025,12,393497,2025-08-26,WhatsApp,2,3.5,inactivo,721.0,jimenacordero@correo.com,35128962
+C0630,Ricardo Gómez,32,F,guate,Cartago,Premium,2,665997,10,308535,2026-03-08,whatsapp,0,6.2,Bloqueado,679.0,ricardogomez@correo.com,44885487
+C0631,Carlos Vargas,50,M,Costa Rica,Puntarenas,Bronce,Muy alto,1501983,6,223587,2025-02-10,,0,4.0,Pendiente,351.0,carlosvargas@correo.com,70195866
+C0632,Ricardo Salazar,18,M,Nicaragua,Liberia,Premium,Bajo,797752,4,103251,31/02/2025,Email,1,8.3,inactivo,453.0,ricardosalazar@correo.com,22017545
+C0633,Camila Pérez,27,M,Panamá,Heredia,Bronce,Alto,382403,8,360061,24/02/2026,Email,1,6.1,activo,258.0,camilaperez@correo.com,72383680
+C0634,Lucía Navarro,40,F,Panamá,Ciudad de Panamá,Premium,1,741329,7,error,07-16-2025,whatsapp,0,3.5,ACTIVO,589.0,lucianavarro@correo.com,93795829
+C0635,Alonso Aguilar,35,M,NI,San José,Premium,Bajo,1338094,6,162971,2025-07-12,SMS,0,5.7,ACTIVO,831.0,alonsoaguilar@correo.com,36772443
+C0636,Esteban Torres,24,M,Nicaragua,Alajuela,Oro,Bajo,1654081,4,153147,04-27-2025,Llamada,4,3.5,Pendiente,0,estebantorres@correo.com,57376242
+C0637,Fernando Ramírez,18,F,Guatemala,,Oro,Alto,1075873,1,1966,2024-01-14,whatsapp,1,5.0,inactivo,384.0,fernandoramirez@correo.com,47422983
+C0638,Sebastián Cordero,45,Femenino,Panamá,Managua,Oro,Muy alto,"1,067,754",4,42884,18/03/2025,llamada,0,3.7,Pendiente,431.0,sebastiancordero@correo.com,55404231
+C0639,Pablo Mora,32,F,El Salvador,Cartago,Premium,Alto,710078,2,68272,15/08/2024,Email,0,4.7,Pendiente,785.0,pablomora@correo.com,34533023
+C0640,Sofía Torres,220,Masculino,Guatemala,Ciudad de Guatemala,Bronce,Bajo,775691,0,19243,2025-05-25,whatsapp,4,4.9,Inactivo,281.0,sofiatorres@correo.com,45641199
+C0641,Sofía Aguilar,150,M,Costa Rica,Cartago,Oro,Medio,1095241,16,117235,13/02/2026,Email,4,1.9,ACTIVO,729.0,sofiaaguilar@correo.com,24630616
+C0642,Fabiola Cordero,,Femenino,Nicaragua,Puntarenas,Sin segmento,Alto,1059330,10,173705,2025-06-01,Correo,1,1.8,Bloqueado,421.0,fabiolacordero@correo.com,03927888
+C0643,Luis Ramírez,41,M,Guatemala,Alajuela,Oro,,696956,0,18267,2025-07-03,App,0,3.1,Activo,344.0,luisramirez@correo.com,81472373
+C0644,Daniela Pérez,37,M,Guatemala ,Managua,premium,Alto,sin dato,15,0,03/03/2025,Email,2,2.8,Activo,311.0,danielaperez@correo.com,05956343
+C0645,Alonso Navarro,-5,F,El Salvador,Puntarenas,Premium,Muy alto,583862,19,571068,31/02/2025,,0,6.6,Bloqueado,475.0,alonsonavarro@correo.com,00549080
+C0646,Gabriela Salazar,23,Masculino,Panamá,Antigua,Oro,Medio,657753,11,0,08-04-2025,llamada,0,5.1,ACTIVO,482.0,gabrielasalazar@correo.com,35189622
+C0647,Natalia Solís,40,F,panamá,,Bronce,Bajo,1121750,9,0,2025-03-17,whatsapp,2,4.6,Pendiente,326.0,nataliasolis@correo.com,47909863
+C0648,Mateo Solís,18,Femenino,Panamá,Heredia,Oro,Medio,555906,1,"₡12,108",2025/99/99,Email,0,5.4,Inactivo,323.0,mateosolis@correo.com,39606104
+C0649,Jimena Vargas,42,M,Nicaragua,San Salvador,Premium,Medio,670516,0,40666,2024-11-15,,0,7.5,activo,344.0,jimenavargas@correo.com,90447085
+C0650,Kevin Mora,43,Masculino,El Salvador,Cartago,PREMIUM,Muy alto,606316,0,38724,2024-10-01,email,2,4.4,activo,621.0,kevinmora@correo.com,87093391
+C0651,María Gómez,,M,NI,Antigua,Bronce,Bajo,,3,54941,19/08/2024,llamada,-1,3.4,Activo,820.0,mariagomez@correo.com,86989484
+C0652,Fabiola Hernández,29,M,Nicaragua,San José,Plata,Alto,920730,9,334021,2025-03-28,SMS,2,5.4,activo,0,fabiolahernandez@correo.com,41559674
+C0653,Sebastián Monge,29,F,Guatemala,Alajuela,Plata,Bajo,525621,0,31582,01-27-2026,Correo,2,4.6,inactivo,380.0,sebastianmonge@correo.com,62487238
+C0654,Esteban Aguilar,42,No indica,Nicaragua,San Salvador,Premium,Medio,"₡817,237",7,134852,04-18-2025,Correo,3,4.4,,265.0,estebanaguilar@correo.com,93546463
+C0655,Ana Vargas,50,M,NI,Managua,Premium,Bajo,619636,5,159944,26/06/2024,Correo,0,2.2,activo,728.0,anavargas@correo.com,01561619
+C0656,Kevin Ramírez,53,No indica,Costa Rica,San José,Plata,Medio,876921,6,152934,28/07/2025,Email,0,1.6,Pendiente,408.0,kevinramirez@correo.com,73655619
+C0657,Fabiola Soto,42,F,Nicaragua,Alajuela,Plata,Medio,612544,8,141442,08/03/2024,Llamada,80,5.4,inactivo,719.0,fabiolasoto@correo.com,32528267
+C0658,Fabiola Alvarado,34,M,Panamá,Heredia,Premium,Alto,615535,14,155880,2024-04-25,WhatsApp,2,2.2,inactivo,405.0,fabiolaalvarado@correo.com,58771555
+C0659,Mónica Gómez,36,No indica,Panamá,,Premium,Muy alto,548076,1,30112,2025-07-02,Email,0,5.0,Pendiente,821.0,monicagomez@correo.com,79395795
+C0660,Camila Navarro,33,No indica,Nicaragua,Ciudad de Guatemala,Plata,Muy alto,ND,10,"₡184,531",2025-07-10,Correo,4,8.8,Bloqueado,670.0,camilanavarro@correo.com,
+C0661,María Gómez,28,Male,Panamá,Heredia,Plata,Bajo,886587,5,106511,08-02-2024,App,0,3.7,Pendiente,462.0,mariagomez@correo.com,05108194
+C0662,Sofía Cordero,39,m,Costa Rica,Heredia,Premium,Alto,1280714,5,23891,02-24-2026,WhatsApp,4,5.8,activo,773.0,sofiacordero@correo.com,66968740
+C0663,Fernando Ramírez,-5,MASC,Panamá,San José,Oro,Bajo,577705,7,66916,2024-10-29,SMS,0,6.5,Pendiente,829.0,fernandoramirez@correo.com,61315255
+C0664,Sofía Araya,43,M,Nicaragua,San Salvador,Bronce,Alto,844109,6,127172,2024-12-03,SMS,0,4.4,Activo,528.0,sofiaaraya@correo.com,26031748
+C0665,Camila Chaves,,M,El Salvador,Ciudad de Panamá,Plata,Alto,601624,2,18196,12-27-2024,Llamada,0,8.0,,762.0,camilachaves@correo.com,79830457
+C0666,Esteban Ramírez,23,M,Costa Rica,Puntarenas,Bronce,Bajo,1996566,16,467147,01-08-2024,SMS,0,7.9,,653.0,estebanramirez@correo.com,99307461
+C0667,Gabriela Alvarado,37,,Nicaragua,Cartago,Oro,Medio,880960,9,101486,2026-03-05,App,0,6.6,activo,796.0,gabrielaalvarado@correo.com,73794999
+C0668,Lucía Navarro,27,F,Panamá,Ciudad de Guatemala,Plata,Alto,682568,1,32479,12/09/2024,llamada,3,6.1,Bloqueado,448.0,lucianavarro@correo.com,90799658
+C0669,Alonso Salazar,25,F,Nicaragua,Cartago,Plata,3,965308,14,624448,2025-11-04,whatsapp,0,7.4,Pendiente,600.0,alonsosalazar@correo.com,85403369
+C0670,Ricardo Aguilar,32,M,Guatemala,San Salvador,Premium,Alto,1182758,6,209561,17/03/2024,SMS,1,9.9,inactivo,676.0,ricardoaguilar@correo.com,70200617
+C0671,Andrés Ramírez,53,F,NI,Alajuela,Bronce,Medio,794446,4,54550,06-02-2024,Llamada,1,5.6,inactivo,428.0,andresramirez@correo.com,30455559
+C0672,Valeria Aguilar,21,Femenino,Panamá,Cartago,Plata,Bajo,300398,10,290383,25/05/2024,llamada,1,2.9,Activo,340.0,valeriaaguilar@correo.com,50617906
+C0673,Alonso Castro,51,F,El Salvador,Liberia,Premium,Bajo,606867,5,104449,03-15-2024,Llamada,1,3.4,Bloqueado,-100,alonsocastro@correo.com,71226008
+C0674,Natalia Navarro,24,M,Panamá,Puntarenas,Plata,Alto,352144,9,485697,2025-07-20,App,0,3.3,ACTIVO,598.0,natalianavarro@correo.com,76096064
+C0675,José Chaves,21,Male,Nicaragua,Ciudad de Panamá,premium,Muy alto,759447,9,128462,12/07/2025,llamada,1,3.2,Inactivo,728.0,josechaves@correo.com,16417005
+C0676,Natalia Pérez,36,,El Salvador,Cartago,Oro,Alto,958074,7,227793,2025-01-04,Email,1,8.0,,725.0,nataliaperez@correo.com,98480870
+C0677,Ana Pérez,37,F,panamá,Ciudad de Guatemala,Oro,Alto,1063969,0,33651,31/02/2025,SMS,0,3.7,Pendiente,548.0,correo@@mal,05025497
+C0678,Luis Castro,51,M,Panamá,Managua,Oro,Muy alto,300188,8,197139,09-22-2025,,1,2.9,Bloqueado,421.0,luiscastro@correo.com,74051337
+C0679,Esteban Navarro,39,,El Salvador,Ciudad de Panamá,Bronce,Alto,504785,0,34008,06-12-2025,,0,5.4,inactivo,377.0,estebannavarro@correo.com,62405744
+C0680,Valeria Gómez,32,F,El Salvador,Alajuela,Oro,Bajo,1363942,16,244765,2024-03-19,whatsapp,1,1.9,,281.0,valeriagomez@correo.com,34800226
+C0681,Sebastián Soto,57,F,El Salvador,Ciudad de Guatemala,Plata,Alto,788660,8,136357,16/04/2024,,3,5.9,Pendiente,778.0,sebastiansoto@correo.com,72758045
+C0682,Jorge Navarro,49,M,El Salvador,Ciudad de Panamá,Oro,Alto,ND,0,8435,12-16-2025,Email,0,6.1,ACTIVO,317.0,jorgenavarro@correo.com,84479365
+C0683,Jorge Araya,36,Female,Costa Rica,Ciudad de Guatemala,Oro,Alto,sin dato,5,171117,2025-05-18,Llamada,1,8.7,,773.0,jorgearaya@correo.com,11213807
+C0684,Ricardo Mora,44,M,Panamá,Ciudad de Panamá,Oro,Alto,1003758,5,,20/09/2025,SMS,3,4.4,Pendiente,355.0,ricardomora@correo.com,84705203
+C0685,Jimena Alvarado,18,Female,guate,San José,Premium,Medio,1293102,5,126134,2025-01-22,whatsapp,0,3.5,ACTIVO,519.0,jimenaalvarado@correo.com,10628334
+C0686,Mateo Hernández,27,F,Nicaragua,,Plata,Alto,1143428,12,282405,2025-04-03,Email,0,1.7,inactivo,833.0,mateohernandez@correo.com,68939770
+C0687,Mateo Araya,18,M,Panamá,San Salvador,Oro,Bajo,993014,5,124824,2025-12-07,WhatsApp,1,6.1,,,mateoaraya@correo.com,39459942
+C0688,Jorge Rojas,23,F,Costa Rica,Cartago,Plata,Muy alto,594629,2,"₡69,486",29/04/2024,email,0,3.1,ACTIVO,446.0,jorgerojas@correo.com,77287156
+C0689,Daniela Monge,29,F,Panamá,Puntarenas,Oro,Medio,1074178,4,82961,03-17-2024,Email,0,6.7,Pendiente,693.0,danielamonge@correo.com,07882165
+C0690,María Torres,39,F,guate,San José,Premium,Alto,823125,3,129514,06-25-2024,Email,2,6.2,Activo,1200,mariatorres@correo.com,63409412
+C0691,Fernando Gómez,24,M,Costa Rica,Ciudad de Guatemala,Premium,Alto,938625,13,192716,05-29-2025,Email,0,9.9,Inactivo,624.0,fernandogomez@correo.com,68612734
+C0692,Sofía Rojas,36,FEM,ESA,San José,Bronce,4,912282,1,26356,11-23-2025,Email,0,3.7,,365.0,sofiarojas@correo.com,
+C0693,María Rojas,39,F,el salvador,Liberia,Premium,Bajo,353596,5,223362,02-29-2024,Email,0,6.9,Activo,766.0,mariarojas@correo.com,63160378
+C0694,Lucía Navarro,65,Female,El Salvador,Cartago,Bronce,5,973799,6,124728,2024-09-10,SMS,0,3.3,activo,441.0,lucianavarro@correo.com,97140863
+C0695,Valeria Rojas,37,F,Panamá,,Plata,Alto,912370,3,81614,30/01/2026,SMS,9,3.8,,319.0,valeriarojas@correo.com,03482367
+C0696,Valeria Solís,50,f,Salvador,,Oro,Alto,891686,1,19276,13/04/2025,Email,0,4.9,activo,323.0,valeriasolis@correo.com,81144157
+C0697,Mónica Jiménez,26,M,C.R.,San José,Oro,Bajo,1180575,0,29763,01-23-2025,whatsapp,3,4.1,inactivo,845.0,monicajimenez@correo.com,40344545
+C0698,Kevin Cordero,-5,,Nicaragua,Heredia,Premium,Muy alto,1313329,8,334734,31/07/2024,whatsapp,0,0.5,Activo,283.0,kevincordero@correo.com,70934099
+C0699,Ricardo Vargas,45,M,Costa Rica,Ciudad de Panamá,Premium,Bajo,444756,10,187126,07-04-2024,Email,0,3.2,inactivo,596.0,ricardovargas@correo.com,123
+C0700,Alonso Castro,26,F,Panamá,Puntarenas,Bronce,Medio,1058082,3,57629,2024-02-24,App,0,4.9,Inactivo,660.0,alonsocastro@correo.com,57613049
+C0701,Mónica Torres,42,F,Guatemala,Puntarenas,Premium,4,1948983,14,123198,29/11/2024,WhatsApp,0,3.8,,300.0,monicatorres@correo.com,18708941
+C0702,Pablo Monge,60,F,Nicaragua,Antigua,Plata,5,719032,18,0,07-13-2025,whatsapp,5,5.2,Bloqueado,683.0,pablomonge@correo.com,77007881
+C0703,José Aguilar,40,F,El Salvador,Ciudad de Panamá,Bronce,Muy alto,790689,6,203961,04/01/2025,llamada,0,11.1,Activo,330.0,joseaguilar@correo.com,03709070
+C0704,Laura Pérez,34,F,El Salvador,San José,Plata,Alto,1057258,2,26995,2024-12-21,llamada,2,5.6,activo,454.0,lauraperez@correo.com,76541982
+C0705,Mateo Salazar,,F,Panamá,Heredia,Plata,Medio,1480062,7,110486,2026-01-02,llamada,0,6.4,ACTIVO,706.0,mateosalazar@correo.com,16852247
+C0706,Carlos Soto,25,M,El Salvador,San José,Plata,Muy alto,934762,13,307977,06-12-2024,Llamada,0,6.0,Bloqueado,381.0,carlossoto@correo.com,
+C0707,Camila Mora,37,F,Guatemala,San Salvador,Oro,Bajo,376720,-2,24978,03/10/2025,Correo,1,5.8,Bloqueado,593.0,,45544215
+C0708,Daniela Alvarado,-1,F,Nicaragua ,Ciudad de Panamá,Plata,Medio,1082501,3,0,2025-11-24,email,0,5.7,inactivo,556.0,danielaalvarado@correo.com,65510250
+C0709,Natalia Mora,23,M,nicargua,Managua,Oro,Bajo,870027,11,353927,24/11/2025,email,1,6.0,ACTIVO,612.0,nataliamora@correo.com,40389554
+C0710,Valeria Castro,19,M,costa rica,,Premium,Medio,701639,9,310091,07/04/2025,SMS,1,9.5,Pendiente,253.0,valeriacastro@correo.com,90488660
+C0711,Jorge Torres,27,M,El Salvador,Cartago,Oro,2,"2,466,956",15,479669,08/11/2025,WhatsApp,-1,3.9,ACTIVO,739.0,jorgetorres@correo.com,94473387
+C0712,Sofía Pérez,36,M,Costa Rica,Ciudad de Guatemala,Premium,4,1721028,7,165981,2025-09-25,SMS,0,5.4,ACTIVO,394.0,sofiaperez@correo.com,96469243
+C0713,Camila Pérez,25,Masculino,Costa Rica,Antigua,Bronce,4,501648,10,332840,16/02/2025,whatsapp,0,4.8,inactivo,644.0,camilaperez@correo.com,22150396
+C0714,Mónica Pérez,29,F,CR,Alajuela,Oro,4,"674,903",0,23887,12/12/2024,Email,1,4.8,activo,269.0,monicaperez@correo.com,57181580
+C0715,Emilio Monge,34,M,PAN,Puntarenas,Plata,Muy alto,870749,5,128343,2025-09-03,SMS,1,4.8,Bloqueado,794.0,emiliomonge@correo.com,50719612
+C0716,Jimena Soto,41,F,GT,San José,Bronce,Muy alto,842038,9,121010,04/07/2024,email,1,4.3,Activo,800.0,jimenasoto@correo.com,51657121
+C0717,Jimena Castro,18,F,Guatemala,Managua,Plata,Muy alto,1769682,5,145606,11-04-2025,Email,1,1.1,Inactivo,262.0,jimenacastro@correo.com,19680450
+C0718,Sofía Mora,-5,F,Panamá,,Premium,Bajo,,0,21943,2024-12-26,,0,7.5,ACTIVO,449.0,sofiamora@correo.com,62745669
+C0719,Gabriela Mora,27,FEM,Guatemala,San Salvador,Premium,Medio,711197,8,194071,2024-07-18,llamada,3,1.9,inactivo,565.0,gabrielamora@correo.com,46859026
+C0720,María Vargas,34,F,NI,Liberia,Premium,Muy alto,835961,3,70464,07/01/2025,App,0,0.9,inactivo,339.0,mariavargas@correo.com,25600858
+C0721,Fabiola Castro,28,M,GT,,Bronce,Bajo,863256,8,140270,01-13-2026,App,0,3.6,Bloqueado,777.0,fabiolacastro@correo.com,31414087
+C0722,Sebastián Navarro,43,M,Panama,Alajuela,Plata,Medio,764997,3,23982,03/08/2025,whatsapp,0,4.8,Pendiente,528.0,sebastiannavarro@correo.com,63558774
+C0723,Jorge Jiménez,35,F,Guatemala,Ciudad de Guatemala,Oro,Medio,969903,3,48220,12/09/2024,Correo,0,1.6,,827.0,jorgejimenez@correo.com,76766608
+C0724,Andrés Aguilar,27,,Guatemala ,Puntarenas,Plata,Muy alto,944241,0,20089,10-29-2024,whatsapp,0,5.4,,252.0,,14452996
+C0725,Andrés Ramírez,41,F,Nicaragua,San Salvador,Plata,Muy alto,"₡537,172",6,141290,09-06-2025,llamada,1,1.1,activo,581.0,sin correo,78602159
+C0726,Valeria Navarro,18,F,Panamá,San José,Plata,Alto,1292449,12,265746,01-25-2026,llamada,0,6.2,inactivo,684.0,sin correo,36665600
+C0727,Mónica Soto,53,F,Guatemala,San Salvador,Plata,Muy alto,1558419,21,624055,2024-07-21,Email,1,6.0,Pendiente,753.0,monicasoto@correo.com,06660485
+C0728,Valeria Ramírez,28,MASC,Panamá,Ciudad de Panamá,Premium,Medio,467525,4,96386,18/08/2024,SMS,4,4.4,Inactivo,686.0,valeriaramirez@correo.com,85942193
+C0729,Valeria Cordero,40,M,Nicaragua,Antigua,Plata,Muy alto,ND,15,442252,29/03/2026,whatsapp,2,2.3,activo,,valeriacordero@correo.com,15001113
+C0730,Laura Rojas,31,FEM,Nicaragua,Alajuela,Bronce,medio,874400,10,"₡331,373",16/12/2024,llamada,,1.3,Pendiente,593.0,laurarojas@correo.com,72096102
+C0731,Jorge Torres,35,M,El Salvador,Heredia,Premium,ALTO,1010704,11,360835,11-11-2024,Correo,2,3.1,inactivo,625.0,jorgetorres@correo.com,60968568
+C0732,Adriana Castro,53,M,Guatemala,Ciudad de Panamá,Oro,Medio,1616338,9,250976,22/02/2026,SMS,2,7.1,activo,561.0,adrianacastro@correo.com,94947155
+C0733,Esteban Navarro,53,Male,Guatemala,Puntarenas,Bronce,Alto,1467586,2,33895,23/12/2024,,4,3.5,inactivo,254.0,estebannavarro@correo.com,85693291
+C0734,Andrés Pérez,,M,Guatemala,San José,Bronce,Muy alto,268633,10,412629,08-23-2024,,1,5.8,,805.0,andresperez@correo.com,46603327
+C0735,Camila Vargas,30,M,El Salvador,Alajuela,,Muy alto,1103403,10,324902,11/10/2025,WhatsApp,0,4.6,ACTIVO,506.0,camilavargas@correo.com,57547893
+C0736,Sebastián Gómez,27,F,El Salvador,Antigua,Bronce,Medio,414134,9,296246,08-25-2025,WhatsApp,4,6.6,inactivo,374.0,sebastiangomez@correo.com,87058079
+C0737,Esteban Chaves,,MASC,Costa Rica,Ciudad de Panamá,Oro,Alto,15000000,8,100874,sin fecha,Correo,3,5.3,ACTIVO,558.0,estebanchaves@correo.com,78836431
+C0738,Pablo Alvarado,24,M,Costa Rica,San Salvador,Plata,Medio,15000000,7,175733,2025-10-26,whatsapp,1,3.7,activo,479.0,pabloalvarado@correo.com,123
+C0739,Kevin Mora,40,F,CostaRica,Managua,Oro,Muy alto,"249,136",0,50280,2025-04-04,Correo,0,6.6,Pendiente,518.0,kevinmora@correo.com,24553815
+C0740,Mateo Soto,38,F,Panamá,Managua,Plata,Alto,1214360,5,224900,2025-06-09,Email,1,7.0,ACTIVO,757.0,mateosoto@correo.com,61504884
+C0741,Pablo Rojas,27,M,PAN,San José,Oro,Alto,1252928,7,15990,2025-11-10,Llamada,2,4.5,activo,521.0,pablorojas@correo.com,59254123
+C0742,Pablo Monge,37,M,Costa Rica,,Oro,Alto,1038470,4,132792,15/12/2024,Llamada,0,3.4,Pendiente,383.0,pablomonge@correo.com,76749064
+C0743,Mateo Soto,28,F,Panamá,Alajuela,Premium,Bajo,525380,3,44183,2025-03-21,App,0,7.1,Inactivo,379.0,mateosoto@correo.com,76680895
+C0744,Ana Pérez,18,M,Costa Rica,Puntarenas,Bronce,Muy alto,920380,11,29841,2025-03-06,SMS,4,1.2,Pendiente,578.0,sin correo,05583911
+C0745,Luis Gómez,30,M,Guatemala,Managua,Plata,Medio,929122,8,292155,04-05-2025,email,2,5.8,inactivo,399.0,luisgomez@correo.com,20834812
+C0746,Andrés Salazar,30,F,Costa Rica,San Salvador,Premium,Muy alto,1043187,15,56012,14/11/2024,Llamada,1,6.2,Bloqueado,480.0,andressalazar@correo.com,99531556
+C0747,Emilio Ramírez,40,M,Costa Rica,Managua,Premium,Bajo,374748,8,180475,19/08/2024,whatsapp,0,7.5,ACTIVO,839.0,,74857830
+C0748,Gabriela Solís,23,M,Nicaragua,San Salvador,Premium,Bajo,497989,0,15824,08/09/2025,Correo,0,3.0,inactivo,471.0,gabrielasolis@correo.com,53442004
+C0749,Daniela Ramírez,28,M,Panamá,Managua,Bronce,Muy alto,760570,8,227859,2024-07-09,email,0,5.1,Activo,496.0,danielaramirez@correo.com,79042338
+C0750,Alonso Pérez,,Male,Panamá,Ciudad de Panamá,Oro,Muy alto,649725,150,2234364,2024-10-23,Llamada,5,7.2,Inactivo,,alonsoperez@correo.com,51306109
+C0751,Paula Araya,25,F,Nicaragua ,Cartago,Premium,Medio,799623,5,106883,27/02/2025,Email,0,5.2,Activo,446.0,paulaaraya@correo.com,20367027
+C0752,Ana Chaves,53,M,El Salvador,Antigua,Bronce,Medio,431975,2,52069,07-11-2024,Llamada,2,120,Inactivo,414.0,anachaves@correo.com,51657079
+C0753,Mónica Pérez,34,M,Nicaragua,Puntarenas,Bronce,Muy bajo,ND,10,333855,18/10/2024,Email,1,5.2,inactivo,,monicaperez@correo.com,54370098
+C0754,Adriana Ramírez,999,Femenino,nicargua,Ciudad de Guatemala,Plata,Medio,1063028,19,257542,31/03/2025,SMS,1,4.3,Bloqueado,831.0,adrianaramirez@correo.com,10559169
+C0755,Mónica Castro,25,M,nicargua,,Oro,Alto,721675,8,,2025-02-05,email,0,0.5,Activo,338.0,monicacastro@correo.com,19260261
+C0756,Pablo Vargas,50,F,Costa Rica,Alajuela,Bronce,Bajo,341980,9,297912,17/05/2025,llamada,0,2.2,,669.0,pablovargas@correo.com,11956964
+C0757,Valeria Aguilar,45,m,Costa Rica,Heredia,Bronce,Alto,500113,6,91967,27/06/2024,llamada,0,5.2,activo,409.0,valeriaaguilar@correo.com,73581821
+C0758,Laura Navarro,43,M,El Salvador,San Salvador,Oro,Medio,661229,6,155004,14/12/2025,Email,0,5.2,Bloqueado,736.0,lauranavarro@correo.com,69933530
+C0759,Adriana Araya,25,M,Guatemala,,Plata,Alto,380462,8,94517,07-09-2024,whatsapp,1,4.1,Activo,698.0,adrianaaraya@correo.com,22293177
+C0760,Kevin Hernández,25,M,Panamá,San Salvador,Premium,Muy alto,1871475,6,228396,30/07/2024,whatsapp,3,3.2,,1200,kevinhernandez@correo.com,72094803
+C0001,Camila Navarro,33,No indica,Nicaragua,Ciudad de Guatemala,Plata,Muy alto,ND,10,"₡184,531",2025-07-10,Correo,4,8.8,Bloqueado,670.0,camilanavarro@correo.com,
+C0361,Sebastián Araya,35,Femenino,Panamá,San Salvador,Premium,Medio,624325,0,35580,2025-10-07,email,0,6.3,Pendiente,309.0,sebastianaraya@correo.com,38595143
+C0003,Valeria Mora,23,,Guatemala,Ciudad de Guatemala,Oro,medio,739496,5,172623,18/04/2025,SMS,0,4.9,activo,438.0,valeriamora@correo.com,89596546
+C0191,Paula Navarro,30,Masculino,panamá,Cartago,PREMIUM,Muy alto,699518,11,528955,17/07/2024,WhatsApp,2,5.9,Pendiente,675.0,paulanavarro@correo.com,06633705
+C0005,Adriana Solís,18,M,Nicaragua,Liberia,Plata,Muy alto,635593,10,8574,27/09/2024,App,0,6.2,Pendiente,765.0,adrianasolis@correo.com,73181560
+C0263,Alonso Chaves,,M,El Salvador,Managua,Plata,Alto,"985,198",13,450126,14/08/2025,llamada,0,3.3,inactivo,608.0,alonsochaves@correo.com,92250142
+C0007,Esteban Hernández,33,No indica,Costa Rica,Alajuela,Premium,1,2675595,10,367147,01-29-2026,email,1,9.3,,536.0,correo@@mal,22694053
+C0205,Paula Chaves,46,,Guatemala,Ciudad de Guatemala,Plata,Alto,646253,8,36091,2025-03-20,Llamada,2,6.3,ACTIVO,274.0,paulachaves@correo.com,02374167
+C0009,Fabiola Jiménez,37,,Costa Rica,Heredia,Oro,Medio,551679,14,513105,2024-08-23,App,3,6.4,Pendiente,438.0,fabiolajimenez@correo.com,81444248
+C0103,Lucía Aguilar,23,M,Nicaragua,Puntarenas,Plata,Medio,1425828,1,26557,,Llamada,1,5.6,Activo,621.0,luciaaguilar@correo.com,64334722
+C0011,Camila Soto,45,F,Costa Rica,Ciudad de Guatemala,Premium,Alto,1365174,11,60426,15/10/2024,whatsapp,0,3.4,activo,569.0,camilasoto@correo.com,30311587
+C0549,Alonso Ramírez,30,MASC,Guatemala,Heredia,Plata,Alto,1256044,14,284975,2025-11-14,llamada,2,3.5,ACTIVO,517.0,alonsoramirez@correo.com,69905585
