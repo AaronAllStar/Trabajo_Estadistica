@@ -35,9 +35,9 @@ class StatisticalAnalysis(BaseDataProcessor):
         shape_stats['Kurtosis (Pandas)'] = self.df[self.numeric_cols].kurtosis()
         return shape_stats
 
-    def get_correlations(self):
-        """Matriz de correlación de Pearson."""
-        return self.df[self.numeric_cols].corr(method='pearson')
+    def get_correlations(self, method='pearson'):
+        """Calcula la matriz de correlación (pearson, spearman, kendall)."""
+        return self.df[self.numeric_cols].corr(method=method)
 
     def detect_outliers_iqr(self, column: str):
         """Detección de outliers mediante rango intercuartílico (IQR)."""
@@ -66,5 +66,6 @@ class StatisticalAnalysis(BaseDataProcessor):
             "Estadísticas Básicas": self.get_basic_stats(),
             "Percentiles": self.get_percentiles(),
             "Forma de la Distribución": self.get_shape_stats(),
-            "Correlaciones": self.get_correlations()
+            "Correlaciones": self.get_correlations(method='pearson'),
+            "Correlaciones Spearman": self.get_correlations(method='spearman')
         }

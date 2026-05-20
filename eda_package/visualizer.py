@@ -23,18 +23,19 @@ class Visualizer(BaseDataProcessor):
             plt.title(f'Distribución de {column}')
             plt.show()
 
-    def plot_correlation_matrix(self, interactive: bool = True):
-        """Grafica la matriz de correlación."""
+    def plot_correlation_matrix(self, interactive: bool = True, method: str = 'pearson'):
+        """Grafica la matriz de correlación (pearson, spearman, kendall)."""
         numeric_df = self.df.select_dtypes(include=['float64', 'int64'])
-        corr = numeric_df.corr()
+        corr = numeric_df.corr(method=method)
+        method_title = 'Pearson' if method == 'pearson' else 'Spearman'
         if interactive:
-            fig = px.imshow(corr, text_auto=True, title='Matriz de Correlación', 
+            fig = px.imshow(corr, text_auto=True, title=f'Matriz de Correlación ({method_title})', 
                             template="plotly_dark", color_continuous_scale='Viridis')
             return fig
         else:
             plt.figure(figsize=(12, 8))
             sns.heatmap(corr, annot=True, cmap='coolwarm', fmt=".2f", linewidths=.5)
-            plt.title('Matriz de Correlación')
+            plt.title(f'Matriz de Correlación ({method_title})')
             plt.show()
 
     def plot_boxplots(self, columns=None, interactive: bool = True):

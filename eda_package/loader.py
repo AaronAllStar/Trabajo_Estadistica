@@ -7,7 +7,7 @@ class DataLoader:
 
     def load_data(self):
         try:
-            df = pd.read_csv(self.filepath)
+            df = pd.read_csv(self.filepath, encoding='latin1')
             print(f"Dataset cargado exitosamente. Filas: {df.shape[0]}, Columnas: {df.shape[1]}")
             return df
         except Exception as e:
